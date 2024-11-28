@@ -1,0 +1,163 @@
+Weekday,Arrival_date,Departure_date,Ship,Pier
+Sa,05.01.19,23.01.19,Mein Schiff 2,Ostseekai
+So,07.04.19,07.04.19,AIDAcara,Ostseekai
+Fr,12.04.19,12.04.19,Viking Sky,Ostseekai
+So,14.04.19,14.04.19,AIDAcara,Ostseekai
+Sa,20.04.19,20.04.19,Viking Sky,Ostseekai
+So,21.04.19,21.04.19,AIDAcara,Ostseekai
+Mi,24.04.19,24.04.19,Astor,Ostseekai
+Sa,27.04.19,27.04.19,MSC Meraviglia,Ostuferhafen
+So,28.04.19,28.04.19,AIDAcara,Ostseekai
+Sa,04.05.19,04.05.19,MSC Meraviglia,Ostuferhafen
+Do,09.05.19,09.05.19,Queen Victoria,Ostseekai
+Fr,10.05.19,10.05.19,Mein Schiff 1,Ostseekai
+Fr,10.05.19,11.05.19,Saga Sapphire,Ostseekai
+Sa,11.05.19,11.05.19,MSC Meraviglia,Ostuferhafen
+So,11.05.19,11.05.19,AIDAcara,Ostseekai
+Mo,13.05.19,13.05.19,Hamburg,Ostseekai
+Di,14.05.19,14.05.19,Mein Schiff 1,Ostseekai
+Di,14.05.19,14.05.19,AIDAluna,Ostseekai
+Do,16.05.19,16.05.19,Zuiderdam,Ostseekai
+Do,16.05.19,16.05.19,AIDAluna,Ostseekai
+Fr,17.05.19,17.05.19,AIDAprima,Ostseekai
+Sa,18.05.19,18.05.19,MSC Meraviglia,Ostuferhafen
+So,19.05.19,19.05.19,Mein Schiff 1,Ostseekai
+Mo,20.05.19,20.05.19,Mein Schiff 4,Ostseekai
+Mo,20.05.19,20.05.19,AIDAluna,Ostseekai
+Mi,22.05.19,22.05.19,AIDAprima,Ostseekai
+Do,24.05.19,24.05.19,Mein Schiff 4,Ostseekai
+Do,24.05.19,24.05.19,Nieuw Statendam,Ostseekai
+Do,24.05.19,24.05.19,Ocean Majesty,Norwegenkai
+Sa,26.05.19,26.05.19,MSC Meraviglia,Ostuferhafen
+So,27.05.19,27.05.19,AIDAcara,Ostseekai
+Mo,28.05.19,28.05.19,Mein Schiff 1,Ostseekai
+Mo,28.05.19,28.05.19,AIDAprima,Ostseekai
+Di,29.05.19,29.05.19,Mein Schiff 4,Ostseekai
+Mi,30.05.19,30.05.19,AIDAbella,Ostseekai
+Do,31.05.19,31.05.19,Ocean Majesty,Norwegenkai
+Sa,01.06.19,01.06.19,MSC Meraviglia,Ostuferhafen
+Sa,01.06.19,01.06.19,AIDAprima,Ostseekai
+So,02.06.19,02.06.19,AIDAbella,Ostseekai
+So,02.06.19,02.06.19,Hamburg,Ostseekai
+Mi,05.06.19,05.06.19,AIDAcara,Ostseekai
+Do,06.06.19,06.06.19,Mein Schiff 1,Ostseekai
+Do,06.06.19,06.06.19,AIDAluna,Ostseekai
+Do,06.06.19,06.06.19,Ocean Majesty,Norwegenkai
+Fr,07.06.19,07.06.19,Costa Pacifica,Ostseekai
+Sa,08.06.19,08.06.19,Mein Schiff 4,Ostseekai
+Sa,08.06.19,08.06.19,MSC Meraviglia,Ostuferhafen
+Sa,08.06.19,08.06.19,AIDAprima,Ostseekai
+So,09.06.19,09.06.19,Zuiderdam,Ostseekai
+Mo,10.06.19,10.06.19,Mein Schiff 1,Ostseekai
+Do,13.06.19,13.06.19,Hamburg,Ostseekai
+Sa,15.06.19,15.06.19,MSC Meraviglia,Ostuferhafen
+Sa,15.06.19,15.06.19,AIDAcara,Ostseekai
+Sa,15.06.19,15.06.19,AIDAprima,Ostseekai
+So,16.06.19,16.06.19,Ocean Majesty,Norwegenkai
+So,16.06.19,16.06.19,AIDAbella,Ostseekai
+Di,18.06.19,18.06.19,Costa Pacifica,Ostseekai
+Do,20.06.19,20.06.19,Mein Schiff 1,Ostseekai
+Sa,22.06.19,22.06.19,Mein Schiff 4,Ostseekai
+Sa,22.06.19,22.06.19,MSC Meraviglia,Ostuferhafen
+Sa,22.06.19,22.06.19,AIDAprima,Ostseekai
+So,23.06.19,23.06.19,AIDAluna,Ostseekai
+So,23.06.19,23.06.19,Amadea,Norwegenkai
+So,23.06.19,23.06.19,Artania,Ostseekai
+Mo,24.06.19,24.06.19,Hamburg,Ostseekai
+Di,25.06.19,25.06.19,Albatros,Ostseekai
+Fr,28.06.19,28.06.19,Costa Pacifica,Ostseekai
+Sa,29.06.19,29.06.19,MSC Meraviglia,Ostuferhafen
+Sa,29.06.19,29.06.19,AIDAcara,Ostseekai
+Sa,29.06.19,29.06.19,AIDAprima,Ostseekai
+So,30.06.19,30.06.19,Mein Schiff 4,Ostseekai
+So,30.06.19,30.06.19,AIDAbella,Ostseekai
+Mo,01.07.19,01.07.19,Mein Schiff 1,Ostseekai
+Mo,01.07.19,01.07.19,Ocean Majesty,Norwegenkai
+Mi,03.07.19,03.07.19,Boudicca,Ostseekai
+Do,04.07.19,04.07.19,Zuiderdam,Ostseekai
+Sa,06.07.19,06.07.19,MSC Meraviglia,Ostuferhafen
+Sa,06.07.19,06.07.19,AIDAprima,Ostseekai
+Di,09.07.19,09.07.19,Costa Pacifica,Ostseekai
+Di,09.07.19,09.07.19,Artania,Ostseekai
+Mi,10.07.19,10.07.19,AIDAluna,Ostseekai
+Fr,12.07.19,12.07.19,Ocean Majesty,Norwegenkai
+Sa,13.07.19,13.07.19,Mein Schiff 1,Ostseekai
+Sa,13.07.19,13.07.19,MSC Meraviglia,Ostuferhafen
+Sa,13.07.19,13.07.19,AIDAprima,Scheerhafen
+So,14.07.19,14.07.19,Mein Schiff 4,Ostseekai
+So,14.07.19,14.07.19,AIDAbella,Ostseekai
+Mo,15.07.19,15.07.19,Europa,Ostseekai
+Di,16.07.19,16.07.19,Marella Explorer,Ostseekai
+Fr,19.07.19,19.07.19,Costa Pacifica,Ostseekai
+Fr,19.07.19,19.07.19,Vasco da Gama,Ostseekai
+Sa,20.07.19,20.07.19,MSC Meraviglia,Ostuferhafen
+Sa,20.07.19,20.07.19,AIDAprima,Ostseekai
+So,21.07.19,21.07.19,Mein Schiff 1,Ostseekai
+Mo,22.07.19,22.07.19,Vasco da Gama,Ostseekai
+Do,25.07.19,25.07.19,Queen Victoria,Ostseekai
+Sa,27.07.19,27.07.19,MSC Meraviglia,Ostuferhafen
+Sa,27.07.19,27.07.19,AIDAluna,Ostseekai
+Sa,27.07.19,27.07.19,AIDAprima,Ostseekai
+So,28.07.19,28.07.19,Mein Schiff 4,Ostseekai
+So,28.07.19,28.07.19,AIDAbella,Ostseekai
+Mo,29.07.19,29.07.19,AIDAluna,Ostseekai
+Di,30.07.19,30.07.19,Costa Pacifica,Ostseekai
+Mi,31.07.19,31.07.19,Mein Schiff 1,Ostseekai
+Do,01.08.19,01.08.19,Vasco Da Gama,Ostseekai
+Fr,02.08.19,02.08.19,Azamara Journey,Ostseekai
+Sa,03.08.19,03.08.19,MSC Meraviglia,Ostuferhafen
+Sa,03.08.19,03.08.19,AIDAprima,Ostseekai
+Mo,05.08.19,05.08.19,Astor,Norwegenkai
+Do,08.08.19,08.08.19,Mein Schiff 1,Ostseekai
+Do,08.08.19,08.08.19,Mein Schiff 4,Ostseekai
+Fr,09.08.19,09.08.19,Costa Pacifica,Ostseekai
+Sa,10.08.19,10.08.19,MSC Meraviglia,Ostuferhafen
+Sa,10.08.19,10.08.19,AIDAprima,Ostseekai
+So,11.08.19,11.08.19,AIDAbella,Ostseekai
+Di,13.08.19,13.08.19,Vasco Da Gama,Ostseekai
+Do,15.08.19,15.08.19,AIDAluna,Ostseekai
+Sa,17.08.19,17.08.19,MSC Meraviglia,Ostuferhafen
+Sa,17.08.19,17.08.19,AIDAluna,Ostseekai
+Sa,17.08.19,17.08.19,AIDAprima,Ostseekai
+Sa,17.08.19,17.08.19,Vasco Da Gama,Norwegenkai
+So,18.08.19,18.08.19,Mein Schiff 1,Ostseekai
+Di,20.08.19,20.08.19,Mein Schiff 4,Ostseekai
+Di,20.08.19,20.08.19,Costa Pacifica,Ostseekai
+Sa,24.08.19,24.08.19,MSC Meraviglia,Ostuferhafen
+Sa,24.08.19,24.08.19,AIDAprima,Ostseekai
+So,25.08.19,25.08.19,AIDAbella,Ostseekai
+Di,27.08.19,27.08.19,Mein Schiff 1,Ostseekai
+Mi,28.08.19,28.08.19,AIDAluna,Ostseekai
+Fr,30.08.19,30.08.19,Mein Schiff 4,Ostseekai
+Fr,30.08.19,30.08.19,Costa Pacifica,Ostseekai
+Sa,31.08.19,31.08.19,MSC Meraviglia,Ostuferhafen
+Sa,31.08.19,31.08.19,AIDAprima,Ostseekai
+So,01.09.19,01.09.19,Europa 2,Ostseekai
+So,01.09.19,01.09.19,AIDAbella,Ostseekai
+Mo,02.09.19,02.09.19,Europa,Ostseekai
+Do,05.09.19,05.09.19,Nieuw Statendam,Ostseekai
+Sa,07.09.19,07.09.19,Mein Schiff 3,Ostseekai
+Sa,07.09.19,07.09.19,MSC Meraviglia,Ostuferhafen
+Sa,07.09.19,07.09.19,AIDAprima,Ostseekai
+So,08.09.19,08.09.19,AIDAbella,Ostseekai
+Di,10.09.19,10.09.19,Costa Pacifica,Ostseekai
+Mi,11.09.19,11.09.19,Mein Schiff 3,Ostseekai
+Do,12.09.19,12.09.19,AIDAbella,Ostseekai
+Sa,14.09.19,14.09.19,MSC Meraviglia,Ostuferhafen
+Sa,14.09.19,14.09.19,AIDAprima,Ostseekai
+So,15.09.19,15.09.19,AIDAbella,Ostseekai
+Mi,18.09.19,18.09.19,Mein Schiff 3,Ostseekai
+Mi,18.09.19,18.09.19,Europa,Ostseekai
+Do,19.09.19,19.09.19,AIDAbella,Ostseekai
+Sa,21.09.19,21.09.19,MSC Meraviglia,Ostuferhafen
+Sa,21.08.19,21.08.19,AIDAprima,Ostseekai
+So,22.08.19,22.08.19,AIDAbella,Ostseekai
+Do,26.09.19,26.09.19,AIDAbella,Ostseekai
+Fr,27.09.19,27.09.19,Mein Schiff 3,Ostseekai
+Sa,28.09.19,28.09.19,AIDAprima,Ostseekai
+So,29.09.19,29.09.19,Mein Schiff 3,Ostseekai
+So,29.09.19,29.09.19,AIDAbella,Ostseekai
+Do,03.10.19,03.10.19,AIDAbella,Ostseekai
+Sa,05.10.19,05.10.19,AIDAprima,Ostseekai
+Di,08.10.19,08.10.19,Astor,Norwegenkai
+Sa,12.10.19,12.10.19,AIDAprima,Ostseekai
