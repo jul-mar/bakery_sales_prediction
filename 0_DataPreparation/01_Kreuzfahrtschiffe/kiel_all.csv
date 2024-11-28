@@ -1,0 +1,837 @@
+Weekday,Arrival_date,Departure_date,Ship,Pier
+So,31.03.12,31.03.12,AIDAcara,Ostseekai
+So,07.04.12,07.04.12,AIDAcara,Ostseekai
+So,14.04.12,14.04.12,AIDAcara,Ostseekai
+So,21.04.12,21.04.12,AIDAcara,Ostseekai
+So,28.04.12,28.04.12,AIDAcara,Ostseekai
+So,28.04.12,28.04.12,MSC Lirica,Ostseekai
+Mi,02.05.12,02.05.12,AIDAcara,Ostseekai
+Do,03.05.12,03.05.12,MSC Lirica,Ostseekai
+Sa,05.05.12,05.05.12,AIDAcara,Ostseekai
+Sa,05.05.12,05.05.12,MSC Poesia,Ostseekai
+So,06.05.12,06.05.12,Delphin,Norwegenkai
+Mo,07.05.12,07.05.12,Mein Schiff 2,Ostseekai
+Mo,07.05.12,07.05.12,MSC Lirica,Ostseekai
+Do,10.05.12,10.05.12,Princess Daphne,Norwegenkai
+Sa,12.05.12,12.05.12,AIDAcara,Ostseekai
+Sa,12.05.12,12.05.12,MSC Poesia,Ostseekai
+Mo,14.05.12,14.05.12,Delphin,Norwegenkai
+Di,15.05.12,15.05.12,AIDAcara,Ostseekai
+Di,15.05.12,15.05.12,Artania,Ostseekai
+Do,17.05.12,17.05.12,Mein Schiff 2,Ostseekai
+Sa,19.05.12,19.05.12,AIDAcara,Ostseekai
+Sa,19.05.12,19.05.12,Princess Daphne,Norwegenkai
+Sa,19.05.12,19.05.12,MSC Poesia,Ostseekai
+So,20.05.12,20.05.12,Mein Schiff 2,Ostseekai
+Di,22.05.12,22.05.12,AIDAcara,Ostseekai
+Mi,23.05.12,23.05.12,Delphin,Norwegenkai
+Do,24.05.12,24.05.12,Costa Pacifica,Ostseekai
+Fr,25.05.12,25.05.12,Artania,Ostseekai
+Sa,26.05.12,26.05.12,AIDAcara,Ostseekai
+Sa,26.05.12,26.05.12,Princess Daphne,Norwegenkai
+Sa,26.05.12,26.05.12,MSC Poesia,Ostseekai
+Mi,30.05.12,30.05.12,Mein Schiff 2,Ostseekai
+Sa,02.06.12,02.06.12,AIDAcara,Ostseekai
+Sa,02.06.12,02.06.12,MSC Poesia,Ostseekai
+So,03.06.12,03.06.12,Costa Pacifica,Ostseekai
+So,03.06.12,03.06.12,MSC Magnifica,Ostseekai
+Mo,04.06.12,04.06.12,Delphin,Norwegenkai
+Mo,04.06.12,04.06.12,Artania,Ostseekai
+Di,05.06.12,05.06.12,Princess Daphne,Ostseekai
+Do,07.06.12,07.06.12,Mein Schiff 2,Ostseekai
+Sa,09.06.12,09.06.12,AIDAcara,Ostseekai
+Sa,09.06.12,09.06.12,MSC Poesia,Ostseekai
+Fr,15.06.12,15.06.12,Eurodam,Ostseekai
+Sa,16.06.12,16.06.12,MSC Poesia,Ostseekai
+So,17.06.12,17.06.12,Mein Schiff 2,Ostseekai
+So,17.06.12,17.06.12,MSC Magnifica,Ostseekai
+So,17.06.12,17.06.12,Princess Daphne,Norwegenkai
+Di,19.06.12,19.06.12,Rotterdam,Ostseekai
+Mi,20.06.12,20.06.12,Columbus 2,Ostseekai
+Fr,22.06.12,22.06.12,Star Flyer,Norwegenkai
+Fr,22.06.12,22.06.12,Hamburg,Ostseekai
+Fr,22.06.12,22.06.12,Artania,Ostseekai
+Sa,23.06.12,23.06.12,AIDAcara,Ostseekai
+Sa,23.06.12,23.06.12,Star Flyer,Norwegenkai
+Sa,23.06.12,23.06.12,MSC Poesia,Ostseekai
+So,24.06.12,24.06.12,MSC Magnifica,Ostseekai
+Di,26.06.12,26.06.12,Black Watch,Ostseekai
+Fr,29.06.12,29.06.12,Princess Daphne,Ostseekai
+Sa,30.06.12,30.06.12,MSC Poesia,Ostseekai
+So,01.07.12,01.07.12,Mein Schiff 2,Ostseekai
+So,01.07.12,01.07.12,MSC Magnifica,Ostseekai
+Mo,02.07.12,02.07.12,Columbus 2,Ostseekai
+Di,03.07.12,03.07.12,Eurodam,Ostseekai
+Do,05.07.12,05.07.12,Europa,Ostseekai
+Sa,07.07.12,07.07.12,MSC Poesia,Ostseekai
+So,08.07.12,08.07.12,MSC Magnifica,Ostseekai
+Mo,09.07.12,09.07.12,Mein Schiff 2,Ostseekai
+Di,10.07.12,10.07.12,AIDAcara,Ostseekai
+Di,10.07.12,10.07.12,Princess Daphne,Ostseekai
+Fr,13.07.12,13.07.12,Eurodam,Ostseekai
+Sa,14.07.12,14.07.12,MSC Poesia,Ostseekai
+So,15.07.12,15.07.12,MSC Magnifica,Ostseekai
+Fr,20.07.12,20.07.12,Princess Daphne,Norwegenkai
+Sa,21.07.12,21.07.12,Columbus 2,Ostseekai
+Sa,21.07.12,21.07.12,MSC Poesia,Ostseekai
+So,22.07.12,22.07.12,MSC Magnifica,Ostseekai
+Mo,23.07.12,23.07.12,Eurodam,Ostseekai
+Mo,23.07.12,23.07.12,Europa,Ostseekai
+Di,24.07.12,24.07.12,Queen Elizabeth,Ostseekai
+Fr,27.07.12,27.07.12,Astor,Norwegenkai
+Fr,27.07.12,27.07.12,AIDAcara,Ostseekai
+Sa,28.07.12,28.07.12,MSC Poesia,Ostseekai
+So,29.07.12,29.07.12,MSC Magnifica,Ostseekai
+Do,02.08.12,02.08.12,Columbus 2,Ostseekai
+Sa,04.08.12,04.08.12,MSC Poesia,Ostseekai
+Sa,04.08.12,04.08.12,Gann,Ostseekai
+So,05.08.12,05.08.12,MSC Magnifica,Ostseekai
+Di,07.08.12,07.08.12,Eurodam,Ostseekai
+Di,07.08.12,07.08.12,Hamburg,Ostseekai
+Fr,10.08.12,10.08.12,Costa Pacifica,Ostseekai
+Sa,11.08.12,11.08.12,MSC Poesia,Ostseekai
+So,12.08.12,12.08.12,MSC Magnifica,Ostseekai
+So,12.08.12,12.08.12,Europa,Ostseekai
+Mo,13.08.12,13.08.12,AIDAcara,Ostseekai
+Di,14.08.12,14.08.12,Columbus 2,Ostseekai
+Di,14.08.12,14.08.12,Delphin,Norwegenkai
+Do,16.08.12,16.08.12,Mein Schiff 2,Ostseekai
+Fr,17.08.12,17.08.12,Hamburg,Ostseekai
+Sa,18.08.12,18.08.12,MSC Poesia,Ostseekai
+So,19.09.12,19.09.12,MSC Magnifica,Ostseekai
+Di,21.09.12,21.09.12,Costa Pacifica,Ostseekai
+Mi,22.08.12,22.08.12,Arion,Norwegenkai
+Fr,24.08.12,24.08.12,Europa,Ostseekai
+Fr,24.08.12,24.08.12,Thomson Spirit,Ostseekai
+Sa,25.08.12,25.08.12,MSC Poesia,Ostseekai
+So,26.08.12,26.08.12,Mein Schiff 2,Ostseekai
+So,26.08.12,26.08.12,MSC Magnifica,Ostseekai
+Mo,27.08.12,27.08.12,AIDAcara,Ostseekai
+Mo,27.08.12,27.08.12,Delphin,Norwegenkai
+Di,28.08.12,28.08.12,Europa,Ostseekai
+Fr,31.08.12,31.08.12,AIDAcara,Ostseekai
+Fr,31.08.12,31.08.12,Deutschland,Ostseekai
+Sa,01.09.12,01.09.12,Costa Pacifica,Ostseekai
+Sa,01.09.12,01.09.12,MSC Poesia,Ostseekai
+So,02.09.12,02.09.12,MSC Magnifica,Ostseekai
+Mo,03.09.12,03.09.12,Deutschland,Ostseekai
+Mo,03.09.12,03.09.12,Astor,Norwegenkai
+Di,04.09.12,04.09.12,AIDAcara,Ostseekai
+Di,04.09.12,04.09.12,Hamburg,Ostseekai
+Mi,05.09.12,05.09.12,Mein Schiff 2,Ostseekai
+Sa,08.09.12,08.09.12,AIDAcara,Ostseekai
+Sa,08.09.12,08.09.12,Delphin,Norwegenkai
+Sa,08.09.12,08.09.12,MSC Poesia,Ostseekai
+So,09.09.12,09.09.12,MSC Magnifica,Ostseekai
+Fr,14.09.12,14.09.12,Thomson Spirit,Ostseekai
+Fr,14.09.12,14.09.12,Astor,Norwegenkai
+Sa,15.09.12,15.09.12,AIDAcara,Ostseekai
+So,16.09.12,16.09.12,MSC Magnifica,Ostseekai
+Sa,22.09.12,22.09.12,AIDAcara,Ostseekai
+Sa,29.09.12,29.09.12,AIDAcara,Ostseekai
+Sa,06.10.12,06.10.12,AIDAcara,Ostseekai
+Di,09.10.12,09.10.12,AIDAcara,Ostseekai
+So,02.12.12,02.12.12,Black Watch,Ostseekai
+Sa,15.12.12,15.12.12,Amadea,
+Sa,13.04.13,13.04.13,AIDAcara,Ostseekai
+Mi,17.04.13,17.04.13,AIDAcara,Ostseekai
+Sa,20.04.13,20.04.13,AIDAcara,Ostseekai
+Di,23.04.13,23.04.13,Astor,Norwegenkai
+Mi,24.04.13,24.04.13,AIDAcara,Ostseekai
+Do,25.04.13,25.04.13,MSC Musica,Ostseekai
+Sa,27.04.13,27.04.13,AIDAcara,Ostseekai
+So,28.04.13,28.04.13,MSC Musica,Ostseekai
+Di,30.04.13,30.04.13,Rotterdam,Ostseekai
+Mi,01.05.13,01.05.13,AIDAcara,Ostseekai
+Mi,01.05.13,01.05.13,Costa Pacifica,Ostseekai
+Sa,04.05.13,04.05.13,AIDAcara,Ostseekai
+So,05.05.13,05.05.13,MSC Musica,Ostseekai
+So,05.05.13,05.05.13,Delphin,Norwegenkai
+Di,07.05.13,07.05.13,MSC Poesia,Ostseekai
+Sa,10.05.13,10.05.13,AIDAcara,Ostseekai
+Sa,10.05.13,10.05.13,MSC Poesia,Ostseekai
+So,11.05.13,11.05.13,MSC Musica,Ostseekai
+So,11.05.13,11.05.13,Costa Pacifica,Ostseekai
+Mo,13.05.13,13.05.13,Delphin,Norwegenkai
+Do,16.05.13,16.05.13,Deutschland,Norwegenkai
+Sa,18.05.13,18.05.13,AIDAcara,Ostseekai
+Sa,18.05.13,18.05.13,MSC Poesia,Ostseekai
+So,19.05.13,19.05.13,MSC Musica,Ostseekai
+Do,23.05.13,23.05.13,Costa Pacifica,Ostseekai
+Sa,25.05.13,25.05.13,AIDAcara,Ostseekai
+Sa,25.05.13,25.05.13,MSC Poesia,Ostseekai
+So,26.05.13,26.05.13,MSC Musica,Ostseekai
+Di,28.05.13,28.05.13,Rotterdam,Ostseekai
+Mi,29.05.13,29.05.13,Mein Schiff 1,Ostseekai
+Mi,29.05.13,29.05.13,Ocean Majesty,Norwegenkai
+Do,30.05.13,30.05.13,Eurodam,Ostseekai
+Fr,31.05.13,31.05.13,Hamburg,Ostseekai
+Sa,01.06.13,01.06.13,AIDAcara,Ostseekai
+Sa,01.06.13,01.06.13,MSC Poesia,Ostseekai
+So,02.06.13,02.06.13,MSC Musica,Ostseekai
+Mo,03.06.13,03.06.13,Costa Pacifica,Ostseekai
+Mo,03.06.13,03.06.13,Delphin,Norwegenkai
+Di,04.06.13,04.06.13,Mein Schiff 1,Ostseekai
+Sa,08.06.13,08.06.13,Ocean Majesty,Norwegenkai
+Sa,08.06.13,08.06.13,AIDAcara,Ostseekai
+Sa,08.06.13,08.06.13,MSC Poesia,Ostseekai
+So,09.06.13,09.06.13,Eurodam,Ostuferhafen
+So,09.06.13,09.06.13,Mein Schiff 1,Ostseekai
+So,09.06.13,09.06.13,MSC Musica,Ostseekai
+Mi,12.06.13,12.06.13,AIDAcara,Ostseekai
+Do,13.06.13,13.06.13,Costa Pacifica,Ostseekai
+Sa,15.06.13,15.06.13,AIDAcara,Ostseekai
+Sa,15.06.13,15.06.13,Ocean Majesty,Norwegenkai
+Sa,15.06.13,15.06.13,MSC Poesia,Ostseekai
+So,16.06.13,16.06.13,Columbus 2,Norwegenkai
+So,16.06.13,16.06.13,MSC Musica,Ostseekai
+Mi,19.06.13,19.06.13,Eurodam,Ostseekai
+Do,20.06.13,20.06.13,Mein Schiff 1,Ostseekai
+Sa,22.06.13,22.06.13,MSC Poesia,Ostseekai
+So,23.06.13,23.06.13,MSC Musica,Ostseekai
+Mo,24.06.13,24.06.13,Amadea,Ostseekai
+Do,27.06.13,27.06.13,Ocean Majesty,Norwegenkai
+Fr,28.06.13,28.06.13,Deutschland,Norwegenkai
+Fr,28.06.13,28.06.13,Columbus 2,Ostseekai
+Sa,29.06.13,29.06.13,Eurodam,Ostseekai
+Sa,29.06.13,29.06.13,Astor,Norwegenkai
+Sa,29.06.13,29.06.13,Black Watch,Ostuferhafen
+Sa,29.06.13,29.06.13,MSC Poesia,Ostseekai
+So,30.06.13,30.06.13,MSC Musica,Ostseekai
+So,30.06.13,30.06.13,Azamara Quest,Ostseekai
+Di,02.07.13,02.07.13,AIDAcara,Ostseekai
+Do,04.07.13,04.07.13,Mein Schiff 1,Ostseekai
+Sa,06.07.13,06.07.13,MSC Poesia,Ostseekai
+So,07.07.13,07.07.13,MSC Musica,Ostseekai
+Di,09.07.13,09.07.13,Eurodam,Ostseekai
+Di,09.07.13,09.07.13,Columbus 2,Norwegenkai
+Di,09.07.13,09.07.13,Rotterdam,Ostseekai
+Do,11.07.13,11.07.13,Ocean Majesty,Norwegenkai
+Sa,13.07.13,13.07.13,Astor,Norwegenkai
+Sa,13.07.13,13.07.13,MSC Poesia,Ostseekai
+So,14.07.13,14.07.13,Mein Schiff 1,Ostseekai
+So,14.07.13,14.07.13,MSC Musica,Ostseekai
+Mi,17.07.13,17.07.13,FTI Berlin,Ostseekai
+Do,18.07.13,18.07.13,Rotterdam,Ostseekai
+Fr,19.07.13,19.07.13,Eurodam,Ostseekai
+Fr,19.07.13,19.07.13,AIDAcara,Ostseekai
+Sa,20.07.13,20.07.13,MSC Poesia,Ostseekai
+So,21.07.13,21.07.13,Columbus 2,Norwegenkai
+So,21.07.13,21.07.13,MSC Musica,Ostseekai
+Mo,22.07.13,22.07.13,Mein Schiff 1,Ostseekai
+Mo,22.07.13,22.07.13,Europa,Ostseekai
+Mi,24.07.13,24.07.13,Ocean Majesty,Norwegenkai
+Sa,27.07.13,27.07.13,MSC Poesia,Ostseekai
+So,28.07.13,28.07.13,MSC Musica,Ostseekai
+Fr,02.08.13,02.08.13,Mein Schiff 1,Ostseekai
+Sa,03.08.13,03.08.13,MSC Poesia,Ostseekai
+So,04.08.13,04.08.13,MSC Musica,Ostseekai
+Mo,05.08.13,05.08.13,AIDAcara,Ostseekai
+Sa,10.08.13,10.08.13,AIDAcara,Ostseekai
+Sa,10.08.13,10.08.13,MSC Poesia,Ostseekai
+Sa,10.08.13,10.08.13,Ocean Majesty,Norwegenkai
+So,11.08.13,11.08.13,MSC Musica,Ostseekai
+Mo,12.08.13,12.08.13,Mein Schiff 1,Ostseekai
+Do,15.08.13,15.08.13,Costa Pacifica,Ostseekai
+Sa,17.08.13,17.08.13,MSC Poesia,Ostseekai
+So,18.08.13,18.08.13,MSC Musica,Ostseekai
+Mi,21.08.13,21.08.13,Europa,Ostseekai
+Do,22.08.13,22.08.13,Mein Schiff 1,Ostseekai
+Sa,24.08.13,24.08.13,AIDAcara,Ostseekai
+Sa,24.08.13,24.08.13,MSC Poesia,Ostseekai
+So,25.08.13,25.08.13,MSC Musica,Ostseekai
+So,25.08.13,25.08.13,Costa Pacifica,Ostseekai
+Di,27.08.13,27.08.13,Hamburg,Ostseekai
+Fr,30.08.13,30.08.13,Mein Schiff 1,Ostseekai
+Sa,31.08.13,31.08.13,MSC Poesia,Ostseekai
+So,01.09.13,01.09.13,MSC Musica,Ostseekai
+Di,03.09.13,03.09.13,Deutschland,Norwegenkai
+Mi,04.09.13,04.09.13,Costa Pacifica,Ostseekai
+Sa,07.09.13,07.09.13,AIDAcara,Ostseekai
+Sa,07.09.13,07.09.13,Delphin,Norwegenkai
+Sa,07.09.13,07.09.13,MSC Poesia,Ostseekai
+So,08.09.13,08.09.13,MSC Musica,Ostseekai
+Mo,09.09.13,09.09.13,Mein Schiff 1,Ostseekai
+Sa,14.09.13,14.09.13,AIDAcara,Ostseekai
+Sa,14.09.13,14.09.13,MSC Poesia,Ostseekai
+Sa,21.09.13,21.09.13,AIDAcara,Ostseekai
+Sa,28.09.13,28.09.13,AIDAcara,Ostseekai
+Mi,02.10.13,02.10.13,AIDAcara,Ostseekai
+Mi,04.12.13,04.12.13,Black Watch,Ostseekai
+Sa,05.04.14,05.04.14,AIDAcara,Ostseekai
+Do,10.04.14,10.04.14,AIDAcara,Ostseekai
+Sa,12.04.14,12.04.14,AIDAcara,Ostseekai
+Sa,19.04.14,19.04.14,AIDAcara,Ostseekai
+Sa,26.04.14,26.04.14,AIDAcara,Ostseekai
+Mi,30.04.14,30.04.14,Costa Pacifica,Ostseekai
+Sa,03.05.14,03.05.14,AIDAcara,Ostseekai
+Sa,10.05.14,10.05.14,AIDAcara,Ostseekai
+Sa,10.05.14,10.05.14,Delphin,Norwegenkai
+Sa,10.05.14,10.05.14,MSC Orchestra,Ostseekai
+So,11.05.14,11.05.14,Costa Pacifica,Ostseekai
+Mi,14.05.14,14.05.14,MSC Orchestra,Ostseekai
+Do,15.05.14,15.05.14,Azores,Norwegenkai
+Sa,17.05.14,17.05.14,AIDAcara,Ostseekai
+Sa,17.05.14,17.05.14,MSC Orchestra,Ostseekai
+Mo,19.05.14,19.05.14,Saga Pearl II,Ostseekai
+Mo,19.05.14,19.05.14,Delphin,Norwegenkai
+Mi,21.05.14,21.05.14,Eurodam,Ostseekai
+Do,22.05.14,22.05.14,Costa Pacifica,Ostseekai
+Sa,24.05.14,24.05.14,AIDAcara,Ostseekai
+Sa,24.05.14,24.05.14,MSC Orchestra,Ostseekai
+So,25.05.14,25.05.14,Azores,Norwegenkai
+Di,27.05.14,27.05.14,Hamburg,Ostseekai
+Do,29.05.14,29.05.14,Mein Schiff 2,Ostseekai
+Sa,31.05.14,31.05.14,AIDAcara,Ostseekai
+Sa,31.05.14,31.05.14,Hamburg,Norwegenkai
+Sa,31.05.14,31.05.14,MSC Orchestra,Ostseekai
+So,01.06.14,01.06.14,Mein Schiff 2,Ostseekai
+So,01.06.14,01.06.14,Azores ,Norwegenkai
+So,01.06.14,01.06.14,Artania,Ostseekai
+Mo,02.06.14,02.06.14,Mein Schiff 1,Ostseekai
+Mo,02.06.14,02.06.14,Eurodam,Ostseekai
+Mo,02.06.14,02.06.14,Costa Pacifica,Ostuferhafen
+Di,03.06.14,03.06.14,AIDAcara,Ostseekai
+Mi,04.06.14,04.06.14,Mein Schiff 3,Ostseekai
+Mi,04.06.14,04.06.14,Ocean Majesty,Norwegenkai
+Fr,06.06.14,07.06.14,Mein Schiff 3,Ostseekai
+Fr,06.06.14,06.06.14,AIDAcara,Ostseekai
+Sa,07.06.14,07.06.14,MSC Orchestra,Ostseekai
+Mo,09.06.14,09.06.14,AIDAcara,Ostseekai
+Mo,09.06.14,09.06.14,Delphin,Norwegenkai
+Mi,11.06.14,11.06.14,Europa 2,Ostseekai
+Mi,11.06.14,11.06.14,Mein Schiff 2,Ostseekai
+Mi,11.06.14,11.06.14,Hamburg,Norwegenkai
+Do,12.06.14,12.06.14,AIDAcara,Ostseekai
+Do,12.06.14,12.06.14,Costa Pacifica,Ostseekai
+Fr,13.06.14,13.06.14,Mein Schiff 1,Ostseekai
+Fr,13.06.14,13.06.14,Artania,Ostseekai
+Fr,13.06.14,27.06.14,Azores,Ostuferhafen
+Sa,14.06.14,14.06.14,MSC Orchestra,Ostseekai
+Sa,14.06.14,14.06.14,Ocean Majesty,Norwegenkai
+So,15.06.14,15.06.14,Europa 2,Ostseekai
+Do,19.06.14,19.06.14,Europa 2,Ostseekai
+Sa,21.06.14,21.06.14,MSC Orchestra,Ostseekai
+Sa,21.06.14,21.06.14,Ocean Majesty,Norwegenkai
+So,22.06.14,22.06.14,Mein Schiff 2,Ostseekai
+So,22.06.14,22.06.14,Delphin,Norwegenkai
+Mo,23.06.14,23.06.14,Costa Pacifica,Ostseekai
+Di,24.06.14,24.06.14,Eurodam,Ostseekai
+Mi,25.06.14,25.06.14,Artania,Ostseekai
+Mi,25.06.14,25.06.14,Amadea,Ostseekai
+Fr,27.06.14,27.06.14,Mein Schiff 1,Ostseekai
+Sa,28.06.14,28.06.14,Adonia,Norwegenkai
+Sa,28.06.14,28.06.14,Braemar,Ostseekai
+Sa,28.06.14,28.06.14,MSC Orchestra,Ostseekai
+So,29.06.14,29.06.14,AIDAcara,Ostseekai
+Mo,30.06.14,30.06.14,Mein Schiff 2,Ostseekai
+Mi,02.07.14,02.07.14,Mein Schiff 1,Ostseekai
+Do,03.07.14,03.07.14,Ocean Majesty,Norwegenkai
+Sa,05.07.14,05.07.14,MSC Orchestra,Ostseekai
+So,06.07.14,06.07.14,Eurodam,Ostseekai
+Mi,09.07.14,09.07.14,Europa,Ostseekai
+Mi,09.07.14,09.07.14,Costa Pacifica,Ostseekai
+Do,10.07.14,10.07.14,Azores,Norwegenkai
+Sa,12.07.14,12.07.14,MSC Orchestra,Ostseekai
+So,13.07.14,13.07.14,Deutschland,Ostseekai
+Mo,14.07.14,14.07.14,Mein Schiff 2,Ostseekai
+Mi,16.07.14,16.07.14,AIDAcara,Ostseekai
+Do,17.07.14,17.07.14,Ocean Majesty,Norwegenkai
+Fr,18.07.14,18.07.14,Eurodam,Ostseekai
+Sa,19.07.14,19.07.14,MSC Orchestra,Ostseekai
+So,20.07.14,20.07.14,Costa Pacifica,Ostseekai
+Di,22.07.14,22.07.14,Mein Schiff 2,Ostseekai
+Di,22.07.14,22.07.14,Hamburg,Ostseekai
+Sa,26.07.14,26.07.14,MSC Orchestra,Ostseekai
+Di,29.07.14,29.07.14,Europa,Ostseekai
+Do,31.07.14,31.07.14,Ocean Majesty,Norwegenkai
+Fr,01.08.14,01.08.14,Mein Schiff 2,Ostseekai
+Sa,02.08.14,02.08.14,AIDAcara,Ostseekai
+Sa,02.08.14,02.08.14,MSC Orchestra,Ostseekai
+So,03.08.14,03.08.14,Hamburg,Ostseekai
+So,03.08.14,03.08.14,Costa Pacifica,Ostseekai
+Di,05.08.14,05.08.14,Eurodam,Ostseekai
+Sa,09.08.14,09.08.14,Mein Schiff 2,Ostseekai
+Sa,09.08.14,09.08.14,MSC Orchestra,Ostseekai
+Do,14.08.14,14.08.14,Costa Pacifica,Ostseekai
+Sa,16.08.14,16.08.14,AIDAcara,Ostseekai
+Sa,16.08.14,16.08.14,MSC Orchestra,Ostseekai
+So,17.08.14,17.08.14,Mein Schiff 2,Ostseekai
+Mo,18.08.14,18.08.14,Astor,Norwegenkai
+Di,19.08.14,19.08.14,Europa,Ostseekai
+Sa,23.08.14,23.08.14,MSC Orchestra,Ostseekai
+Mo,25.08.14,25.08.14,Eurodam,Ostseekai
+Mo,25.08.14,25.08.14,Costa Pacifica,Ostseekai
+Mi,27.08.14,27.08.14,Mein Schiff 2,Ostseekai
+Sa,30.08.14,30.08.14,AIDAcara,Ostseekai
+Sa,30.08.14,30.08.14,MSC Orchestra,Ostseekai
+Do,04.09.14,04.09.14,Costa Pacifica,Ostseekai
+Sa,06.09.14,06.09.14,Mein Schiff 2,Ostseekai
+Sa,06.09.14,06.09.14,AIDAcara,Schwedenkai
+Sa,06.09.14,06.09.14,MSC Orchestra,Ostseekai
+Sa,13.09.14,13.09.14,AIDAcara,Ostseekai
+Mo,15.09.14,15.09.14,Adonia,Norwegenkai
+Sa,20.09.14,20.09.14,AIDAcara,Ostseekai
+Mo,22.09.14,22.09.14,Astor,Norwegenkai
+Sa,27.09.14,27.09.14,AIDAcara,Ostseekai
+Sa,04.10.14,04.10.14,AIDAcara,Ostseekai
+Mo,06.10.14,06.10.14,Astor,Norwegenkai
+Sa,11.10.14,11.10.14,AIDAcara,Ostseekai
+Sa,18.10.14,18.10.14,AIDAcara,Ostseekai
+So,09.04.17,09.04.17,AIDAcara,Ostseekai
+So,16.04.17,16.04.17,AIDAcara,Ostseekai
+So,23.04.17,23.04.17,AIDAcara,Ostseekai
+Di,25.04.17,25.04.17,Astor,Norwegenkai
+Sa,29.04.17,29.04.17,MSC Fantasia,Ostseekai
+So,30.04.17,30.04.17,AIDAcara,Ostseekai
+Sa,06.05.17,06.05.17,MSC Fantasia,Ostseekai
+Sa,06.05.17,06.05.17,Zuiderdam,Ostseekai
+So,07.05.17,07.05.17,AIDAcara,Ostseekai
+Do,11.05.17,11.05.17,Mein Schiff 6,Ostseekai
+Fr,12.05.17,12.05.17,Le Soleal,Norwegenkai
+Sa,13.05.17,13.05.17,MSC Fantasia,Ostseekai
+Di,16.05.17,16.05.17,Mein Schiff 6,Ostseekai
+Mi,17.05.17,17.05.17,Ocean Majesty,Norwegenkai
+Do,18.05.17,18.05.17,AIDAluna,Ostseekai
+Fr,19.05.17,19.05.17,Mein Schiff 3,Ostseekai
+Fr,19.05.17,19.05.17,Mein Schiff 6,Ostseekai
+Sa,20.05.17,20.05.17,MSC Fantasia,Ostseekai
+So,21.05.17,21.05.17,AIDAcara,Ostseekai
+Mo,22.05.17,22.05.17,AIDAluna,Ostseekai
+Di,23.05.17,23.05.17,Mein Schiff 6,Ostseekai
+Di,23.05.17,23.05.17,AIDAvita,Ostseekai
+Fr,26.05.17,26.05.17,Hamburg,Ostseekai
+Sa,27.05.17,27.05.17,Mein Schiff 3,Ostseekai
+Sa,27.05.17,27.05.17,AIDAvita,Ostseekai
+Sa,27.05.17,27.05.17,MSC Fantasia,Ostuferhafen
+So,28.05.17,28.05.17,Mein Schiff 6,Ostseekai
+Di,30.05.17,30.05.17,Zuiderdam,Ostseekai
+Mi,31.05.17,31.05.17,AIDAvita,Ostseekai
+Do,01.06.17,01.06.17,Koningsdam,Ostseekai
+Sa,03.06.17,03.06.17,Mein Schiff 6,Ostseekai
+Sa,03.06.17,03.06.17,AIDAvita,Ostseekai
+Sa,03.06.17,03.06.17,Ocean Majesty,Norwegenkai
+Sa,03.06.17,03.06.17,MSC Fantasia,Ostuferhafen
+So,04.06.17,04.06.17,AIDAcara,Ostseekai
+Di,06.06.17,06.06.17,Mein Schiff 3,Ostseekai
+Di,06.06.17,06.06.17,Hamburg,Ostseekai
+Do,08.06.17,08.06.17,AIDAluna,Ostseekai
+Sa,10.06.17,10.06.17,Ocean Majesty,Norwegenkai
+Sa,10.06.17,10.06.17,MSC Fantasia,Ostseekai
+So,11.06.17,11.06.17,Zuiderdam,Ostseekai
+Mi,14.06.17,14.06.17,Mein Schiff 3,Ostseekai
+Mi,14.06.17,14.06.17,Mein Schiff 6,Ostseekai
+Sa,17.06.17,17.06.17,AIDAvita,Ostseekai
+Sa,17.06.17,17.06.17,MSC Fantasia,Ostseekai
+So,18.06.17,18.06.17,Mein Schiff 6,Ostseekai
+So,18.06.17,18.06.17,AIDAcara,Ostseekai
+Mi,21.06.17,21.06.17,Queen Elizabeth,Ostseekai
+Mi,21.06.17,21.06.17,Arcadia,Ostseekai
+Mi,21.06.17,21.06.17,Ocean Majesty,Norwegenkai
+Do,22.06.17,22.06.17,AIDAbella,Ostseekai
+Fr,23.06.17,23.06.17,Albatros,Ostseekai
+Fr,23.06.17,23.06.17,Black Watch,Ostseekai
+Sa,24.06.17,24.06.17,MSC Fantasia,Ostseekai
+So,25.06.17,25.06.17,AIDAluna,Ostseekai
+Mo,26.06.17,26.06.17,AIDAbella,Ostseekai
+Mo,26.06.17,26.06.17,Hamburg,Ostseekai
+Mi,28.06.17,28.06.17,Mein Schiff 3,Ostseekai
+Mi,28.06.17,28.06.17,Mein Schiff 6,Ostseekai
+Fr,30.06.17,30.06.17,AIDAbella,Ostseekai
+Sa,01.07.17,01.07.17,AIDAvita,Ostseekai
+Sa,01.07.17,01.07.17,MSC Fantasia,Ostseekai
+So,02.07.17,02.07.17,AIDAcara,Ostseekai
+Mo,03.07.17,03.07.17,Ocean Majesty,Norwegenkai
+Mi,05.07.17,05.07.17,Zuiderdam,Ostseekai
+Fr,07.07.17,07.07.17,AIDAbella,Ostseekai
+Fr,07.07.17,07.07.17,Hamburg,Ostseekai
+Sa,08.07.17,08.07.17,Mein Schiff 6,Ostseekai
+Sa,08.07.17,08.07.17,MSC Fantasia,Ostseekai
+Mo,10.07.17,10.07.17,Deutschland,Ostseekai
+Di,11.07.17,11.07.17,Artania,Ostseekai
+Mi,12.07.17,12.07.17,AIDAluna,Ostseekai
+Fr,14.07.17,14.07.17,AIDAbella,Ostseekai
+Sa,15.07.17,15.07.17,Mein Schiff 3,Ostseekai
+Sa,15.07.17,15.07.17,AIDAvita,Sartorikai
+Sa,15.07.17,15.07.17,MSC Fantasia,Ostseekai
+Di,18.07.17,18.07.17,Mein Schiff 6,Ostseekai
+Do,20.07.17,20.07.17,Artania,Ostseekai
+Sa,22.07.17,22.07.17,MSC Fantasia,Ostseekai
+Mo,24.07.17,24.07.17,AIDAbella,Ostseekai
+Mi,26.07.17,26.07.17,Mein Schiff 6,Ostseekai
+Mi,26.07.17,26.07.17,Costa Pacifica,Ostseekai
+Fr,28.07.17,28.07.17,Mein Schiff 3,Ostseekai
+Sa,29.07.17,29.07.17,AIDAluna,Ostseekai
+Sa,29.07.17,29.07.17,AIDAvita,Sartorikai
+Sa,29.07.17,29.07.17,MSC Fantasia,Ostseekai
+Di,01.08.17,01.08.17,Europa,Ostseekai
+Mi,02.08.17,02.08.17,AIDAbella,Ostseekai
+Do,03.08.17,03.08.17,Mein Schiff 6,Ostseekai
+Sa,05.08.17,05.08.17,Mein Schiff 3,Ostseekai
+Sa,05.08.17,05.08.17,AIDAluna,Ostseekai
+Sa,05.08.17,05.08.17,MSC Fantasia,Ostuferhafen
+So,06.08.17,06.08.17,Costa Pacifica,Ostseekai
+Fr,11.08.17,11.08.17,AIDAbella,Ostseekai
+Fr,11.08.17,11.08.17,Berlin,Ostseekai
+Sa,12.08.17,12.08.17,AIDAluna,Ostseekai
+Sa,12.08.17,12.08.17,AIDAvita,Ostseekai
+Sa,12.08.17,12.08.17,MSC Fantasia,Ostuferhafen
+Sa,12.08.17,12.08.17,Zuiderdam,Ostseekai
+So,13.08.17,13.08.17,Mein Schiff 6,Ostseekai
+So,13.08.17,13.08.17,Astor,Norwegenkai
+Mi,16.08.17,16.08.17,Mein Schiff 3,Ostseekai
+Mi,16.08.17,16.08.17,Balmoral,Ostseekai
+Do,17.08.17,17.08.17,Costa Pacifica,Ostseekai
+Sa,19.08.17,19.08.17,AIDAluna,Ostseekai
+Sa,19.08.17,19.08.17,MSC Fantasia,Ostseekai
+So,20.08.17,20.08.17,Berlin,Ostseekai
+Mo,21.08.17,21.08.17,AIDAbella,Ostseekai
+Mi,23.08.17,23.08.17,AIDAluna,Ostseekai
+Do,24.08.17,24.08.17,Mein Schiff 3,Ostseekai
+Sa,26.08.17,26.08.17,AIDAvita,Ostseekai
+Sa,26.08.17,26.08.17,MSC Fantasia,Ostseekai
+Mo,28.08.17,28.08.17,Costa Pacifica,Ostseekai
+Di,29.08.17,29.08.17,Ocean Majesty,Norwegenkai
+Fr,01.09.17,01.09.17,Mein Schiff 3,Ostseekai
+Sa,02.09.17,02.09.17,MSC Fantasia,Ostseekai
+Di,05.09.17,05.09.17,Mein Schiff 3,Ostseekai
+Mi,06.09.17,06.09.17,Europa 2,Ostseekai
+Fr,08.09.17,08.09.17,Costa Pacifica,Ostseekai
+Sa,09.09.17,09.09.17,AIDAvita,Ostseekai
+Sa,09.09.17,09.09.17,MSC Fantasia,Ostseekai
+Mi,13.09.17,13.09.17,Europa,Ostseekai
+Mi,13.09.17,13.09.17,AIDAvita,Ostseekai
+Do,14.09.17,14.09.17,Koningsdam,Ostseekai
+Sa,16.09.17,16.09.17,AIDAvita,Ostseekai
+Sa,16.09.17,16.09.17,MSC Fantasia,Ostseekai
+Mi,20.09.17,20.09.17,AIDAvita,Ostseekai
+Sa,23.09.17,23.09.17,AIDAvita,Ostseekai
+So,24.09.17,24.09.17,AIDAcara,Ostseekai
+Mi,27.09.17,27.09.17,AIDAvita,Ostseekai
+Sa,30.09.17,30.09.17,AIDAvita,Ostseekai
+Mo,02.10.17,02.10.17,AIDAcara,Ostseekai
+Mo,02.10.17,02.10.17,Black Watch,Ostseekai
+Mi,04.10.17,04.10.17,AIDAvita,Ostseekai
+Sa,07.10.17,07.10.17,AIDAvita,Ostseekai
+Di,09.10.17,09.10.17,AIDAcara,Ostseekai
+Sa,14.10.17,14.10.17,AIDAvita,Ostseekai
+Sa,21.10.17,21.10.17,AIDAvita,Ostseekai
+Fr,06.04.18,06.04.18,Boudicca,Ostseekai
+So,08.04.18,08.04.18,AIDAcara,Ostseekai
+So,15.04.18,15.04.18,AIDAcara,Ostseekai
+So,22.04.18,22.04.18,AIDAcara,Ostseekai
+Do,26.04.18,26.04.18,AIDAluna,Ostseekai
+Fr,27.04.18,27.04.18,Mein Schiff 1,Ostseekai
+Sa,28.04.18,28.04.18,AIDAluna,Ostseekai
+Sa,28.04.18,28.04.18,MSC Preziosa,Ostseekai
+So,29.04.18,29.04.18,Mein Schiff 1,Ostseekai
+So,29.04.18,29.04.18,AIDAcara,Ostseekai
+Fr,04.05.18,04.05.18,Mein Schiff 1,Ostseekai
+Fr,04.05.18,04.05.18,Zenith,Ostseekai
+Sa,05.05.18,05.05.18,AIDAluna,Ostseekai
+Sa,05.05.18,05.05.18,MSC Preziosa,Ostseekai
+Mi,09.05.18,09.05.18,AIDAbella,Ostseekai
+Fr,11.05.18,11.05.18,Ocean Majesty,Norwegenkai
+Sa,12.05.18,12.05.18,AIDAluna,Ostseekai
+Sa,12.05.18,12.05.18,MSC Preziosa,Ostseekai
+So,13.05.18,13.05.18,AIDAbella,Ostseekai
+So,13.05.18,13.05.18,AIDAcara,Ostseekai
+Di,15.05.18,15.05.18,Mein Schiff 4,Ostseekai
+Do,17.05.18,17.05.18,Saga Sapphire,Ostseekai
+Do,17.05.18,17.05.18,Le Soleal,Ostseekai
+Sa,19.05.18,19.05.18,Mein Schiff 1,Ostseekai
+Sa,19.05.18,19.05.18,Zuiderdam,Ostseekai
+Sa,19.05.18,19.05.18,MSC Preziosa,Ostuferhafen
+Sa,19.05.18,19.05.18,AIDAluna,Norwegenkai
+So,20.05.18,20.05.18,AIDAbella,Ostseekai
+Mo,21.05.18,21.05.18,AIDAluna,Ostseekai
+Mo,21.05.18,21.05.18,Ocean Majesty,Norwegenkai
+Mo,21.05.18,21.05.18,Queen Elizabeth,Ostseekai
+Mi,23.05.18,23.05.18,Mein Schiff 4,Ostseekai
+Fr,25.05.18,25.05.18,Astor,Norwegenkai
+Sa,26.05.18,26.05.18,MSC Preziosa,Ostseekai
+So,27.05.18,27.05.18,AIDAbella,Ostseekai
+So,27.05.18,27.05.18,AIDAcara,Ostseekai
+Di,29.05.18,29.05.18,Mein Schiff 1,Ostseekai
+Di,29.05.18,29.05.18,AIDAaura,Ostseekai
+Do,31.05.18,31.05.18,Mein Schiff 4,Ostseekai
+Do,31.05.18,31.05.18,Koningsdam,Ostseekai
+Fr,01.06.18,01.06.18,Mein Schiff 1,Ostseekai
+Sa,02.06.18,02.06.18,Ocean Majesty,Norwegenkai
+Sa,02.06.18,02.06.18,MSC Preziosa,Ostseekai
+So,03.06.18,03.06.18,AIDAbella,Ostseekai
+So,03.06.18,03.06.18,Saga Pearl II,Ostseekai
+Mo,04.06.18,04.06.18,Balmoral,Ostseekai
+Mi,06.06.18,06.06.18,AIDAcara,Ostseekai
+Do,07.06.18,07.06.18,AIDAluna,Ostseekai
+Sa,09.06.18,09.06.18,Mein Schiff 1,Ostseekai
+Sa,09.06.18,09.06.18,Ocean Majesty,Norwegenkai
+Sa,09.06.18,09.06.18,AIDAcara,Ostseekai
+Sa,09.06.18,09.06.18,MSC Preziosa,Ostuferhafen
+So,10.06.18,10.06.18,AIDAbella,Ostseekai
+Mo,11.06.18,11.06.18,Mein Schiff 4,Ostseekai
+Di,12.06.18,12.06.18,Zuiderdam,Ostseekai
+Sa,16.06.18,16.06.18,AIDAaura,Ostseekai
+Sa,16.06.18,16.06.18,MSC Preziosa,Ostseekai
+So,17.06.18,17.06.18,Mein Schiff 1,Ostseekai
+So,17.06.18,17.06.18,AIDAbella,Ostuferhafen
+So,17.06.18,17.06.18,AIDAcara,Ostseekai
+Di,19.06.18,19.06.18,Ocean Majesty,Norwegenkai
+Sa,23.06.18,23.06.18,MSC Preziosa,Ostseekai
+Sa,23.06.18,23.06.18,Boudicca,Ostseekai
+Sa,23.06.18,24.06.18,Artania,Ostseekai
+So,24.06.18,24.06.18,AIDAbella,Ostuferhafen
+So,24.06.18,24.06.18,AIDAluna,Ostseekai
+Mo,25.06.18,25.06.18,Mein Schiff 4,Ostseekai
+Di,26.06.18,26.06.18,Hamburg,Ostseekai
+Mi,27.06.18,27.06.18,Mein Schiff 1,Ostseekai
+Sa,30.06.18,30.06.18,AIDAaura,Ostseekai
+Sa,30.06.18,30.06.18,MSC Preziosa,Ostseekai
+So,01.07.18,01.07.18,AIDAbella,Ostseekai
+So,01.07.18,01.07.18,AIDAcara,Ostseekai
+So,01.07.18,01.07.18,Ocean Majesty,Norwegenkai
+Di,03.07.18,03.07.18,Viking Sun,Ostseekai
+Do,05.07.18,05.07.18,Mein Schiff 1,Ostseekai
+Fr,06.07.18,06.07.18,Mein Schiff 4,Ostseekai
+Fr,06.07.18,06.07.18,Zuiderdam,Ostseekai
+Fr,06.07.18,06.07.18,Artania,Ostuferhafen
+Sa,07.07.18,07.07.18,Hamburg,Ostseekai
+Sa,07.07.18,07.07.18,MSC Preziosa,Ostseekai
+So,08.07.18,08.07.18,AIDAbella,Ostseekai
+Mo,09.07.18,09.07.18,Europa,Ostseekai
+Mi,11.07.18,11.07.18,AIDAluna,Ostseekai
+Mi,11.07.18,11.07.18,Ocean Majesty,Norwegenkai
+Sa,14.07.18,14.07.18,AIDAaura,Ostseekai
+Sa,14.07.18,14.07.18,MSC Preziosa,Ostseekai
+So,15.07.18,15.07.18,Mein Schiff 1,Ostseekai
+So,15.07.18,15.07.18,AIDAbella,Ostseekai
+Di,17.07.18,17.07.18,Mein Schiff 4,Ostseekai
+Di,17.07.18,17.07.18,Queen Victoria,Ostseekai
+Mi,18.07.18,18.07.18,Hamburg,Ostseekai
+Fr,20.07.18,20.07.18,Costa Pacifica,Ostseekai
+Sa,21.07.18,21.07.18,MSC Preziosa,Ostseekai
+So,22.07.18,22.07.18,AIDAbella,Ostseekai
+Mo,23.07.18,23.07.18,Mein Schiff 1,Ostseekai
+Sa,28.07.18,28.07.18,AIDAaura,Sartorikai
+Sa,28.07.18,28.07.18,AIDAluna,Ostseekai
+Sa,28.07.18,28.07.18,MSC Preziosa,Ostseekai
+So,29.07.18,29.07.18,Mein Schiff 4,Ostseekai
+So,29.07.18,29.07.18,AIDAbella,Ostseekai
+Mo,30.07.18,30.07.18,Europa,Ostseekai
+Mo,30.07.18,30.07.18,Zuiderdam,Ostseekai
+Mo,30.07.18,31.07.18,Astor,Norwegenkai
+Di,31.07.18,31.07.18,Mein Schiff 1,Ostseekai
+Di,31.07.18,31.07.18,Costa Pacifica,Ostseekai
+Sa,04.08.18,04.08.18,AIDAluna,Ostseekai
+Sa,04.08.18,04.08.18,MSC Preziosa,Ostseekai
+So,05.08.18,05.08.18,AIDAbella,Ostseekai
+Fr,10.08.18,10.08.18,Mein Schiff 1,Ostseekai
+Sa,11.08.18,11.08.18,AIDAaura,Sartorikai
+Sa,11.08.18,11.08.18,AIDAluna,Ostseekai
+Sa,11.08.18,11.08.18,Costa Pacifica,Ostseekai
+Sa,11.08.18,11.08.18,MSC Preziosa,Ostuferhafen
+Sa,11.08.18,11.08.18,Astor,Norwegenkai
+So,12.08.18,12.08.18,Mein Schiff 4,Ostseekai
+So,12.08.18,12.08.18,AIDAbella,Ostseekai
+Fr,17.08.18,17.08.18,Astor,Norwegenkai
+Sa,18.08.18,18.08.18,AIDAluna,Ostseekai
+Sa,18.08.18,18.08.18,MSC Preziosa,Ostseekai
+So,19.08.18,19.08.18,AIDAbella,Ostseekai
+Mo,20.08.18,20.08.18,Mein Schiff 1,Ostseekai
+Mo,20.08.18,20.08.18,Europa 2,Ostseekai
+Mi,22.08.18,22.08.18,Costa Pacifica,Ostseekai
+Do,23.08.18,23.08.18,Mein Schiff 4,Ostseekai
+Do,23.08.18,23.08.18,Zuiderdam,Ostseekai
+Sa,25.08.18,25.08.18,AIDAaura,Sartorikai
+Sa,25.08.18,25.08.18,AIDAluna,Ostseekai
+Sa,25.08.18,25.08.18,MSC Preziosa,Ostseekai
+So,26.08.18,26.08.18,AIDAbella,Ostseekai
+Fr,31.08.18,31.08.18,Mein Schiff 4,Ostseekai
+Sa,01.09.18,01.09.18,MSC Preziosa,Ostseekai
+So,02.09.18,02.09.18,AIDAbella,Ostseekai
+So,02.09.18,02.09.18,Costa Pacifica,Ostseekai
+Do,06.09.18,06.09.18,Berlin,Ostseekai
+Sa,08.09.18,08.09.18,AIDAaura,Ostseekai
+Sa,08.09.18,08.09.18,MSC Preziosa,Ostseekai
+So,09.09.18,09.09.18,AIDAbella,Ostseekai
+Mo,10.09.18,11.09.18,Saga Sapphire,Ostseekai
+Mo,10.09.18,10.09.18,Berlin,Norwegenkai
+Di,11.09.18,11.09.18,Aurora,Ostseekai
+Do,13.09.18,13.09.18,Koningsdam,Ostseekai
+So,16.09.18,16.09.18,AIDAbella,Ostseekai
+Mo,17.09.18,17.09.18,AIDAaura,Ostseekai
+So,23.09.18,23.09.18,AIDAbella,Ostseekai
+Mi,26.09.18,26.09.18,AIDAvita,Ostseekai
+Do,27.09.18,27.09.18,AIDAaura,Ostseekai
+So,30.09.18,30.09.18,AIDAbella,Ostseekai
+Di,02.10.18,02.10.18,Viking Sky,Ostseekai
+Sa,06.10.18,06.10.18,Saga Pearl II,Ostseekai
+Sa,06.10.18,06.10.18,AIDAaura,Ostseekai
+So,07.10.18,07.10.18,AIDAbella,Ostseekai
+So,14.10.18,14.10.18,AIDAbella,Ostseekai
+So,21.10.18,21.10.18,AIDAbella,Ostseekai
+Mi,24.10.18,24.10.18,Balmoral,Ostseekai
+So,28.10.18,28.10.18,AIDAbella,Ostseekai
+Di,30.10.18,30.10.18,Braemar,Ostseekai
+Sa,05.01.19,23.01.19,Mein Schiff 2,Ostseekai
+So,07.04.19,07.04.19,AIDAcara,Ostseekai
+Fr,12.04.19,12.04.19,Viking Sky,Ostseekai
+So,14.04.19,14.04.19,AIDAcara,Ostseekai
+Sa,20.04.19,20.04.19,Viking Sky,Ostseekai
+So,21.04.19,21.04.19,AIDAcara,Ostseekai
+Mi,24.04.19,24.04.19,Astor,Ostseekai
+Sa,27.04.19,27.04.19,MSC Meraviglia,Ostuferhafen
+So,28.04.19,28.04.19,AIDAcara,Ostseekai
+Sa,04.05.19,04.05.19,MSC Meraviglia,Ostuferhafen
+Do,09.05.19,09.05.19,Queen Victoria,Ostseekai
+Fr,10.05.19,10.05.19,Mein Schiff 1,Ostseekai
+Fr,10.05.19,11.05.19,Saga Sapphire,Ostseekai
+Sa,11.05.19,11.05.19,MSC Meraviglia,Ostuferhafen
+So,11.05.19,11.05.19,AIDAcara,Ostseekai
+Mo,13.05.19,13.05.19,Hamburg,Ostseekai
+Di,14.05.19,14.05.19,Mein Schiff 1,Ostseekai
+Di,14.05.19,14.05.19,AIDAluna,Ostseekai
+Do,16.05.19,16.05.19,Zuiderdam,Ostseekai
+Do,16.05.19,16.05.19,AIDAluna,Ostseekai
+Fr,17.05.19,17.05.19,AIDAprima,Ostseekai
+Sa,18.05.19,18.05.19,MSC Meraviglia,Ostuferhafen
+So,19.05.19,19.05.19,Mein Schiff 1,Ostseekai
+Mo,20.05.19,20.05.19,Mein Schiff 4,Ostseekai
+Mo,20.05.19,20.05.19,AIDAluna,Ostseekai
+Mi,22.05.19,22.05.19,AIDAprima,Ostseekai
+Do,24.05.19,24.05.19,Mein Schiff 4,Ostseekai
+Do,24.05.19,24.05.19,Nieuw Statendam,Ostseekai
+Do,24.05.19,24.05.19,Ocean Majesty,Norwegenkai
+Sa,26.05.19,26.05.19,MSC Meraviglia,Ostuferhafen
+So,27.05.19,27.05.19,AIDAcara,Ostseekai
+Mo,28.05.19,28.05.19,Mein Schiff 1,Ostseekai
+Mo,28.05.19,28.05.19,AIDAprima,Ostseekai
+Di,29.05.19,29.05.19,Mein Schiff 4,Ostseekai
+Mi,30.05.19,30.05.19,AIDAbella,Ostseekai
+Do,31.05.19,31.05.19,Ocean Majesty,Norwegenkai
+Sa,01.06.19,01.06.19,MSC Meraviglia,Ostuferhafen
+Sa,01.06.19,01.06.19,AIDAprima,Ostseekai
+So,02.06.19,02.06.19,AIDAbella,Ostseekai
+So,02.06.19,02.06.19,Hamburg,Ostseekai
+Mi,05.06.19,05.06.19,AIDAcara,Ostseekai
+Do,06.06.19,06.06.19,Mein Schiff 1,Ostseekai
+Do,06.06.19,06.06.19,AIDAluna,Ostseekai
+Do,06.06.19,06.06.19,Ocean Majesty,Norwegenkai
+Fr,07.06.19,07.06.19,Costa Pacifica,Ostseekai
+Sa,08.06.19,08.06.19,Mein Schiff 4,Ostseekai
+Sa,08.06.19,08.06.19,MSC Meraviglia,Ostuferhafen
+Sa,08.06.19,08.06.19,AIDAprima,Ostseekai
+So,09.06.19,09.06.19,Zuiderdam,Ostseekai
+Mo,10.06.19,10.06.19,Mein Schiff 1,Ostseekai
+Do,13.06.19,13.06.19,Hamburg,Ostseekai
+Sa,15.06.19,15.06.19,MSC Meraviglia,Ostuferhafen
+Sa,15.06.19,15.06.19,AIDAcara,Ostseekai
+Sa,15.06.19,15.06.19,AIDAprima,Ostseekai
+So,16.06.19,16.06.19,Ocean Majesty,Norwegenkai
+So,16.06.19,16.06.19,AIDAbella,Ostseekai
+Di,18.06.19,18.06.19,Costa Pacifica,Ostseekai
+Do,20.06.19,20.06.19,Mein Schiff 1,Ostseekai
+Sa,22.06.19,22.06.19,Mein Schiff 4,Ostseekai
+Sa,22.06.19,22.06.19,MSC Meraviglia,Ostuferhafen
+Sa,22.06.19,22.06.19,AIDAprima,Ostseekai
+So,23.06.19,23.06.19,AIDAluna,Ostseekai
+So,23.06.19,23.06.19,Amadea,Norwegenkai
+So,23.06.19,23.06.19,Artania,Ostseekai
+Mo,24.06.19,24.06.19,Hamburg,Ostseekai
+Di,25.06.19,25.06.19,Albatros,Ostseekai
+Fr,28.06.19,28.06.19,Costa Pacifica,Ostseekai
+Sa,29.06.19,29.06.19,MSC Meraviglia,Ostuferhafen
+Sa,29.06.19,29.06.19,AIDAcara,Ostseekai
+Sa,29.06.19,29.06.19,AIDAprima,Ostseekai
+So,30.06.19,30.06.19,Mein Schiff 4,Ostseekai
+So,30.06.19,30.06.19,AIDAbella,Ostseekai
+Mo,01.07.19,01.07.19,Mein Schiff 1,Ostseekai
+Mo,01.07.19,01.07.19,Ocean Majesty,Norwegenkai
+Mi,03.07.19,03.07.19,Boudicca,Ostseekai
+Do,04.07.19,04.07.19,Zuiderdam,Ostseekai
+Sa,06.07.19,06.07.19,MSC Meraviglia,Ostuferhafen
+Sa,06.07.19,06.07.19,AIDAprima,Ostseekai
+Di,09.07.19,09.07.19,Costa Pacifica,Ostseekai
+Di,09.07.19,09.07.19,Artania,Ostseekai
+Mi,10.07.19,10.07.19,AIDAluna,Ostseekai
+Fr,12.07.19,12.07.19,Ocean Majesty,Norwegenkai
+Sa,13.07.19,13.07.19,Mein Schiff 1,Ostseekai
+Sa,13.07.19,13.07.19,MSC Meraviglia,Ostuferhafen
+Sa,13.07.19,13.07.19,AIDAprima,Scheerhafen
+So,14.07.19,14.07.19,Mein Schiff 4,Ostseekai
+So,14.07.19,14.07.19,AIDAbella,Ostseekai
+Mo,15.07.19,15.07.19,Europa,Ostseekai
+Di,16.07.19,16.07.19,Marella Explorer,Ostseekai
+Fr,19.07.19,19.07.19,Costa Pacifica,Ostseekai
+Fr,19.07.19,19.07.19,Vasco da Gama,Ostseekai
+Sa,20.07.19,20.07.19,MSC Meraviglia,Ostuferhafen
+Sa,20.07.19,20.07.19,AIDAprima,Ostseekai
+So,21.07.19,21.07.19,Mein Schiff 1,Ostseekai
+Mo,22.07.19,22.07.19,Vasco da Gama,Ostseekai
+Do,25.07.19,25.07.19,Queen Victoria,Ostseekai
+Sa,27.07.19,27.07.19,MSC Meraviglia,Ostuferhafen
+Sa,27.07.19,27.07.19,AIDAluna,Ostseekai
+Sa,27.07.19,27.07.19,AIDAprima,Ostseekai
+So,28.07.19,28.07.19,Mein Schiff 4,Ostseekai
+So,28.07.19,28.07.19,AIDAbella,Ostseekai
+Mo,29.07.19,29.07.19,AIDAluna,Ostseekai
+Di,30.07.19,30.07.19,Costa Pacifica,Ostseekai
+Mi,31.07.19,31.07.19,Mein Schiff 1,Ostseekai
+Do,01.08.19,01.08.19,Vasco Da Gama,Ostseekai
+Fr,02.08.19,02.08.19,Azamara Journey,Ostseekai
+Sa,03.08.19,03.08.19,MSC Meraviglia,Ostuferhafen
+Sa,03.08.19,03.08.19,AIDAprima,Ostseekai
+Mo,05.08.19,05.08.19,Astor,Norwegenkai
+Do,08.08.19,08.08.19,Mein Schiff 1,Ostseekai
+Do,08.08.19,08.08.19,Mein Schiff 4,Ostseekai
+Fr,09.08.19,09.08.19,Costa Pacifica,Ostseekai
+Sa,10.08.19,10.08.19,MSC Meraviglia,Ostuferhafen
+Sa,10.08.19,10.08.19,AIDAprima,Ostseekai
+So,11.08.19,11.08.19,AIDAbella,Ostseekai
+Di,13.08.19,13.08.19,Vasco Da Gama,Ostseekai
+Do,15.08.19,15.08.19,AIDAluna,Ostseekai
+Sa,17.08.19,17.08.19,MSC Meraviglia,Ostuferhafen
+Sa,17.08.19,17.08.19,AIDAluna,Ostseekai
+Sa,17.08.19,17.08.19,AIDAprima,Ostseekai
+Sa,17.08.19,17.08.19,Vasco Da Gama,Norwegenkai
+So,18.08.19,18.08.19,Mein Schiff 1,Ostseekai
+Di,20.08.19,20.08.19,Mein Schiff 4,Ostseekai
+Di,20.08.19,20.08.19,Costa Pacifica,Ostseekai
+Sa,24.08.19,24.08.19,MSC Meraviglia,Ostuferhafen
+Sa,24.08.19,24.08.19,AIDAprima,Ostseekai
+So,25.08.19,25.08.19,AIDAbella,Ostseekai
+Di,27.08.19,27.08.19,Mein Schiff 1,Ostseekai
+Mi,28.08.19,28.08.19,AIDAluna,Ostseekai
+Fr,30.08.19,30.08.19,Mein Schiff 4,Ostseekai
+Fr,30.08.19,30.08.19,Costa Pacifica,Ostseekai
+Sa,31.08.19,31.08.19,MSC Meraviglia,Ostuferhafen
+Sa,31.08.19,31.08.19,AIDAprima,Ostseekai
+So,01.09.19,01.09.19,Europa 2,Ostseekai
+So,01.09.19,01.09.19,AIDAbella,Ostseekai
+Mo,02.09.19,02.09.19,Europa,Ostseekai
+Do,05.09.19,05.09.19,Nieuw Statendam,Ostseekai
+Sa,07.09.19,07.09.19,Mein Schiff 3,Ostseekai
+Sa,07.09.19,07.09.19,MSC Meraviglia,Ostuferhafen
+Sa,07.09.19,07.09.19,AIDAprima,Ostseekai
+So,08.09.19,08.09.19,AIDAbella,Ostseekai
+Di,10.09.19,10.09.19,Costa Pacifica,Ostseekai
+Mi,11.09.19,11.09.19,Mein Schiff 3,Ostseekai
+Do,12.09.19,12.09.19,AIDAbella,Ostseekai
+Sa,14.09.19,14.09.19,MSC Meraviglia,Ostuferhafen
+Sa,14.09.19,14.09.19,AIDAprima,Ostseekai
+So,15.09.19,15.09.19,AIDAbella,Ostseekai
+Mi,18.09.19,18.09.19,Mein Schiff 3,Ostseekai
+Mi,18.09.19,18.09.19,Europa,Ostseekai
+Do,19.09.19,19.09.19,AIDAbella,Ostseekai
+Sa,21.09.19,21.09.19,MSC Meraviglia,Ostuferhafen
+Sa,21.08.19,21.08.19,AIDAprima,Ostseekai
+So,22.08.19,22.08.19,AIDAbella,Ostseekai
+Do,26.09.19,26.09.19,AIDAbella,Ostseekai
+Fr,27.09.19,27.09.19,Mein Schiff 3,Ostseekai
+Sa,28.09.19,28.09.19,AIDAprima,Ostseekai
+So,29.09.19,29.09.19,Mein Schiff 3,Ostseekai
+So,29.09.19,29.09.19,AIDAbella,Ostseekai
+Do,03.10.19,03.10.19,AIDAbella,Ostseekai
+Sa,05.10.19,05.10.19,AIDAprima,Ostseekai
+Di,08.10.19,08.10.19,Astor,Norwegenkai
+Sa,12.10.19,12.10.19,AIDAprima,Ostseekai
