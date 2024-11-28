@@ -1,0 +1,135 @@
+Weekday,Arrival_date,Departure_date,Ship,Pier
+So,31.03.12,31.03.12,AIDAcara,Ostseekai
+So,07.04.12,07.04.12,AIDAcara,Ostseekai
+So,14.04.12,14.04.12,AIDAcara,Ostseekai
+So,21.04.12,21.04.12,AIDAcara,Ostseekai
+So,28.04.12,28.04.12,AIDAcara,Ostseekai
+So,28.04.12,28.04.12,MSC Lirica,Ostseekai
+Mi,02.05.12,02.05.12,AIDAcara,Ostseekai
+Do,03.05.12,03.05.12,MSC Lirica,Ostseekai
+Sa,05.05.12,05.05.12,AIDAcara,Ostseekai
+Sa,05.05.12,05.05.12,MSC Poesia,Ostseekai
+So,06.05.12,06.05.12,Delphin,Norwegenkai
+Mo,07.05.12,07.05.12,Mein Schiff 2,Ostseekai
+Mo,07.05.12,07.05.12,MSC Lirica,Ostseekai
+Do,10.05.12,10.05.12,Princess Daphne,Norwegenkai
+Sa,12.05.12,12.05.12,AIDAcara,Ostseekai
+Sa,12.05.12,12.05.12,MSC Poesia,Ostseekai
+Mo,14.05.12,14.05.12,Delphin,Norwegenkai
+Di,15.05.12,15.05.12,AIDAcara,Ostseekai
+Di,15.05.12,15.05.12,Artania,Ostseekai
+Do,17.05.12,17.05.12,Mein Schiff 2,Ostseekai
+Sa,19.05.12,19.05.12,AIDAcara,Ostseekai
+Sa,19.05.12,19.05.12,Princess Daphne,Norwegenkai
+Sa,19.05.12,19.05.12,MSC Poesia,Ostseekai
+So,20.05.12,20.05.12,Mein Schiff 2,Ostseekai
+Di,22.05.12,22.05.12,AIDAcara,Ostseekai
+Mi,23.05.12,23.05.12,Delphin,Norwegenkai
+Do,24.05.12,24.05.12,Costa Pacifica,Ostseekai
+Fr,25.05.12,25.05.12,Artania,Ostseekai
+Sa,26.05.12,26.05.12,AIDAcara,Ostseekai
+Sa,26.05.12,26.05.12,Princess Daphne,Norwegenkai
+Sa,26.05.12,26.05.12,MSC Poesia,Ostseekai
+Mi,30.05.12,30.05.12,Mein Schiff 2,Ostseekai
+Sa,02.06.12,02.06.12,AIDAcara,Ostseekai
+Sa,02.06.12,02.06.12,MSC Poesia,Ostseekai
+So,03.06.12,03.06.12,Costa Pacifica,Ostseekai
+So,03.06.12,03.06.12,MSC Magnifica,Ostseekai
+Mo,04.06.12,04.06.12,Delphin,Norwegenkai
+Mo,04.06.12,04.06.12,Artania,Ostseekai
+Di,05.06.12,05.06.12,Princess Daphne,Ostseekai
+Do,07.06.12,07.06.12,Mein Schiff 2,Ostseekai
+Sa,09.06.12,09.06.12,AIDAcara,Ostseekai
+Sa,09.06.12,09.06.12,MSC Poesia,Ostseekai
+Fr,15.06.12,15.06.12,Eurodam,Ostseekai
+Sa,16.06.12,16.06.12,MSC Poesia,Ostseekai
+So,17.06.12,17.06.12,Mein Schiff 2,Ostseekai
+So,17.06.12,17.06.12,MSC Magnifica,Ostseekai
+So,17.06.12,17.06.12,Princess Daphne,Norwegenkai
+Di,19.06.12,19.06.12,Rotterdam,Ostseekai
+Mi,20.06.12,20.06.12,Columbus 2,Ostseekai
+Fr,22.06.12,22.06.12,Star Flyer,Norwegenkai
+Fr,22.06.12,22.06.12,Hamburg,Ostseekai
+Fr,22.06.12,22.06.12,Artania,Ostseekai
+Sa,23.06.12,23.06.12,AIDAcara,Ostseekai
+Sa,23.06.12,23.06.12,Star Flyer,Norwegenkai
+Sa,23.06.12,23.06.12,MSC Poesia,Ostseekai
+So,24.06.12,24.06.12,MSC Magnifica,Ostseekai
+Di,26.06.12,26.06.12,Black Watch,Ostseekai
+Fr,29.06.12,29.06.12,Princess Daphne,Ostseekai
+Sa,30.06.12,30.06.12,MSC Poesia,Ostseekai
+So,01.07.12,01.07.12,Mein Schiff 2,Ostseekai
+So,01.07.12,01.07.12,MSC Magnifica,Ostseekai
+Mo,02.07.12,02.07.12,Columbus 2,Ostseekai
+Di,03.07.12,03.07.12,Eurodam,Ostseekai
+Do,05.07.12,05.07.12,Europa,Ostseekai
+Sa,07.07.12,07.07.12,MSC Poesia,Ostseekai
+So,08.07.12,08.07.12,MSC Magnifica,Ostseekai
+Mo,09.07.12,09.07.12,Mein Schiff 2,Ostseekai
+Di,10.07.12,10.07.12,AIDAcara,Ostseekai
+Di,10.07.12,10.07.12,Princess Daphne,Ostseekai
+Fr,13.07.12,13.07.12,Eurodam,Ostseekai
+Sa,14.07.12,14.07.12,MSC Poesia,Ostseekai
+So,15.07.12,15.07.12,MSC Magnifica,Ostseekai
+Fr,20.07.12,20.07.12,Princess Daphne,Norwegenkai
+Sa,21.07.12,21.07.12,Columbus 2,Ostseekai
+Sa,21.07.12,21.07.12,MSC Poesia,Ostseekai
+So,22.07.12,22.07.12,MSC Magnifica,Ostseekai
+Mo,23.07.12,23.07.12,Eurodam,Ostseekai
+Mo,23.07.12,23.07.12,Europa,Ostseekai
+Di,24.07.12,24.07.12,Queen Elizabeth,Ostseekai
+Fr,27.07.12,27.07.12,Astor,Norwegenkai
+Fr,27.07.12,27.07.12,AIDAcara,Ostseekai
+Sa,28.07.12,28.07.12,MSC Poesia,Ostseekai
+So,29.07.12,29.07.12,MSC Magnifica,Ostseekai
+Do,02.08.12,02.08.12,Columbus 2,Ostseekai
+Sa,04.08.12,04.08.12,MSC Poesia,Ostseekai
+Sa,04.08.12,04.08.12,Gann,Ostseekai
+So,05.08.12,05.08.12,MSC Magnifica,Ostseekai
+Di,07.08.12,07.08.12,Eurodam,Ostseekai
+Di,07.08.12,07.08.12,Hamburg,Ostseekai
+Fr,10.08.12,10.08.12,Costa Pacifica,Ostseekai
+Sa,11.08.12,11.08.12,MSC Poesia,Ostseekai
+So,12.08.12,12.08.12,MSC Magnifica,Ostseekai
+So,12.08.12,12.08.12,Europa,Ostseekai
+Mo,13.08.12,13.08.12,AIDAcara,Ostseekai
+Di,14.08.12,14.08.12,Columbus 2,Ostseekai
+Di,14.08.12,14.08.12,Delphin,Norwegenkai
+Do,16.08.12,16.08.12,Mein Schiff 2,Ostseekai
+Fr,17.08.12,17.08.12,Hamburg,Ostseekai
+Sa,18.08.12,18.08.12,MSC Poesia,Ostseekai
+So,19.09.12,19.09.12,MSC Magnifica,Ostseekai
+Di,21.09.12,21.09.12,Costa Pacifica,Ostseekai
+Mi,22.08.12,22.08.12,Arion,Norwegenkai
+Fr,24.08.12,24.08.12,Europa,Ostseekai
+Fr,24.08.12,24.08.12,Thomson Spirit,Ostseekai
+Sa,25.08.12,25.08.12,MSC Poesia,Ostseekai
+So,26.08.12,26.08.12,Mein Schiff 2,Ostseekai
+So,26.08.12,26.08.12,MSC Magnifica,Ostseekai
+Mo,27.08.12,27.08.12,AIDAcara,Ostseekai
+Mo,27.08.12,27.08.12,Delphin,Norwegenkai
+Di,28.08.12,28.08.12,Europa,Ostseekai
+Fr,31.08.12,31.08.12,AIDAcara,Ostseekai
+Fr,31.08.12,31.08.12,Deutschland,Ostseekai
+Sa,01.09.12,01.09.12,Costa Pacifica,Ostseekai
+Sa,01.09.12,01.09.12,MSC Poesia,Ostseekai
+So,02.09.12,02.09.12,MSC Magnifica,Ostseekai
+Mo,03.09.12,03.09.12,Deutschland,Ostseekai
+Mo,03.09.12,03.09.12,Astor,Norwegenkai
+Di,04.09.12,04.09.12,AIDAcara,Ostseekai
+Di,04.09.12,04.09.12,Hamburg,Ostseekai
+Mi,05.09.12,05.09.12,Mein Schiff 2,Ostseekai
+Sa,08.09.12,08.09.12,AIDAcara,Ostseekai
+Sa,08.09.12,08.09.12,Delphin,Norwegenkai
+Sa,08.09.12,08.09.12,MSC Poesia,Ostseekai
+So,09.09.12,09.09.12,MSC Magnifica,Ostseekai
+Fr,14.09.12,14.09.12,Thomson Spirit,Ostseekai
+Fr,14.09.12,14.09.12,Astor,Norwegenkai
+Sa,15.09.12,15.09.12,AIDAcara,Ostseekai
+So,16.09.12,16.09.12,MSC Magnifica,Ostseekai
+Sa,22.09.12,22.09.12,AIDAcara,Ostseekai
+Sa,29.09.12,29.09.12,AIDAcara,Ostseekai
+Sa,06.10.12,06.10.12,AIDAcara,Ostseekai
+Di,09.10.12,09.10.12,AIDAcara,Ostseekai
+So,02.12.12,02.12.12,Black Watch,Ostseekai
+Sa,15.12.12,15.12.12,Amadea,
