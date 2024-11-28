@@ -5,7 +5,7 @@ import numpy as np
 # Read the Verbraucher Preisindex CSV
 # Quelle: https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/Publikationen/Downloads-Verbraucherpreise/verbraucherpreisindex-lange-reihen-xlsx-5611103.xlsx?__blob=publicationFile
 # Read the CSV with semicolon separator and specify encoding if needed
-df_vpi = pd.read_csv("/workspaces/bakery_sales_prediction/0_DataPreparation/Verbraucherpreisindex/Verbraucherpreisindex.csv", sep=';', header=None, 
+df_vpi = pd.read_csv("/workspaces/bakery_sales_prediction/0_DataPreparation/02_Verbraucherpreisindex/Verbraucherpreisindex.csv", sep=';', header=None, 
                         names=['Jahr', 'Monat', 'VPI'], 
                         encoding='utf-8')  # Adjust encoding if needed
 
@@ -44,4 +44,4 @@ df_vpi['year_month'] = df_vpi['Datum'].dt.to_period('M')
 df_vpi_daily = df_vpi_daily.merge(df_vpi[['year_month', 'VPI']], on='year_month')
 df_vpi_daily = df_vpi_daily[['Datum', 'VPI']]
 
-df_vpi_daily.to_csv('/workspaces/bakery_sales_prediction/0_DataPreparation/Verbraucherpreisindex/vpi_daily.csv', index=False)
+df_vpi_daily.to_csv('/workspaces/bakery_sales_prediction/0_DataPreparation/02_Verbraucherpreisindex/vpi_daily.csv', index=False)
