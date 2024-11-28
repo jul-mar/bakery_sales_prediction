@@ -6,4 +6,6 @@ Im Moment sind alle Basisdaten gemerged. Zusätzlich sind die Anläufe der kreuz
 - Im Moment sind noch zu viele Infos über die Schiffe drinnen. Eigentlich reicht eine Spalte mit Kreuzfahrtschiff True/False
 - für 2015/2016 fehlen noch kreuzfahrtdaten --> Bugfixing notwendig
 - Wettercode muss bereinigt werden (one hot encoding)
+- Datenaufbereitung von Kreutzfahrtschiffen im Unterordner und nicht im merge_all_data notebook
+
 
