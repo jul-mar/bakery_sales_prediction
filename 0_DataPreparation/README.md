@@ -10,6 +10,6 @@ Im Moment sind alle Basisdaten gemerged. Zusätzlich sind die Anläufe der kreuz
 - Wochentage als Features hinzufügen
 
 Todo Julius:
-- Ferien nur Schleswig-Holstein
-- Temperatur binnen
+- Ferien nur Schleswig-Holstein (erledigt)
+- Temperatur binnen (erledigt)
 
