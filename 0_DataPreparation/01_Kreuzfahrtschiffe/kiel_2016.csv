@@ -1,0 +1,138 @@
+Weekday,Arrival_date,Departure_date,Ship,Pier
+Mo,25.04.16,25.04.16,AIDAluna,Ostseekai
+Fr,29.04.16,29.04.16,AIDAluna,Ostseekai
+Sa,30.04.16,30.04.16,MSC Musica,Ostuferhafen
+Di,03.05.16,03.05.16,AIDAluna,Ostseekai
+Sa,07.05.16,07.05.16,AIDAluna,Ostseekai
+Sa,07.05.16,07.05.16,MSC Musica,Ostuferhafen
+Sa,07.05.16,07.05.16,AIDAvita,Ostseekai
+Mi,11.05.16,11.05.16,AIDAluna,Ostseekai
+Sa,14.05.16,14.05.16,Zuiderdam,Ostseekai
+Sa,14.05.16,14.05.16,MSC Musica,Ostuferhafen
+So,15.05.16,15.05.16,AIDAaura,Ostseekai
+So,15.05.16,15.05.16,AIDAluna,Ostseekai
+Do,19.05.16,19.05.16,AIDAluna,Ostseekai
+Sa,21.05.16,21.05.16,Mein Schiff 4,Ostseekai
+Sa,21.05.16,21.05.16,AIDAvita,Ostseekai
+Sa,21.05.16,21.05.16,MSC Musica,Ostuferhafen
+So,22.05.16,22.05.16,Europa,Ostseekai
+So,22.05.16,22.05.16,AIDAaura,Ostseekai
+Mo,23.05.16,23.05.16,AIDAluna,Ostseekai
+Sa,28.05.16,28.05.16,MSC Musica,Ostuferhafen
+So,29.05.16,29.05.16,Mein Schiff 4,Ostseekai
+So,29.05.16,29.05.16,AIDAaura,Ostseekai
+Mo,30.05.16,01.06.16,World,Ostseekai
+Di,31.05.16,31.05.16,AIDAaura,Ostseekai
+Mi,01.06.16,01.06.16,Ocean Majesty,Norwegenkai
+Do,02.06.16,02.06.16,AIDAaura,Ostseekai
+Sa,04.06.16,04.06.16,Europa,Ostseekai
+Sa,04.06.16,04.06.16,AIDAvita ,Ostseekai
+Sa,04.06.16,04.06.16,MSC Musica,Ostuferhafen
+So,05.06.16,05.06.16,Astor,Ostseekai
+Mo,06.06.16,06.06.16,AIDAaura,Ostseekai
+Di,07.06.16,07.06.16,Zuiderdam,Ostseekai
+Di,07.06.16,07.06.16,AIDAvita ,Ostseekai
+Mi,08.06.16,08.06.16,Mein Schiff 4,Ostseekai
+Do,09.06.16,09.06.16,AIDAluna,Ostseekai
+Sa,11.06.16,12.06.16,Ocean Gala,Ostuferhafen
+Sa,11.06.16,11.06.16,Ocean Majesty,Norwegenkai
+Sa,11.06.16,11.06.16,MSC Musica,Ostuferhafen
+So,12.06.16,12.06.16,Queen Elizabeth ,Ostseekai
+Mo,13.06.16,13.06.16,Hamburg,Norwegenkai
+Do,16.06.16,16.06.16,AIDAaura,Ostseekai
+Sa,18.06.16,18.06.16,Mein Schiff 4,Ostseekai
+Sa,18.06.16,18.06.16,AIDAaura,Schwedenkai
+Sa,18.06.16,18.06.16,AIDAvita ,Ostseekai
+Sa,18.06.16,18.06.16,MSC Musica,Ostuferhafen
+Sa,18.06.16,18.06.16,Ocean Majesty,Norwegenkai
+So,19.06.16,19.06.16,Zuiderdam,Ostseekai
+Mi,22.06.16,22.06.16,Arcadia,Ostseekai
+Do,23.06.16,23.06.16,Albatros,Ostseekai
+Do,23.06.16,24.06.16,Mein Schiff 5,Ostseekai
+Sa,25.06.16,25.06.16,AIDAaura,Ostseekai
+Sa,25.06.16,25.06.16,MSC Musica,Ostseekai
+So,26.06.16,26.06.16,Mein Schiff 1,Ostseekai
+So,26.06.16,26.06.16,Mein Schiff 4,Ostseekai
+So,26.06.16,26.06.16,AIDAluna,Ostuferhafen
+So,26.06.16,27.06.16,Artania,Ostseekai
+Mi,29.06.16,29.06.16,AIDAaura,Ostseekai
+Mi,29.06.16,29.06.16,Mein Schiff 5,Ostseekai
+Do,30.06.16,30.06.16,Koningsdam,Ostseekai
+Do,30.06.16,30.06.16,Ocean Majesty,Norwegenkai
+Sa,02.07.16,02.07.16,AIDAvita,Ostseekai
+Sa,02.07.16,02.07.16,MSC Musica,Ostseekai
+So,03.07.16,03.07.16,Mein Schiff 5,Ostseekai
+So,03.07.16,03.07.16,Europa 2,Ostseekai
+Mi,06.07.16,06.07.16,Mein Schiff 4,Ostseekai
+Mi,06.07.16,06.07.16,Mein Schiff 5,Ostseekai
+Do,07.07.16,07.07.16,Mein Schiff 1,Ostseekai
+Do,07.07.16,07.07.16,Europa,Ostseekai
+Sa,09.07.16,09.07.16,Artania,Ostseekai
+Sa,09.07.16,09.07.16,MSC Musica,Ostseekai
+So,10.07.16,10.07.16,Mein Schiff 5,Ostseekai
+Mi,13.07.16,13.07.16,Zuiderdam,Ostseekai
+Mi,13.07.16,13.07.16,AIDAluna,Ostuferhafen
+Do,14.07.16,14.07.16,Mein Schiff 5,Ostseekai
+Fr,15.07.16,15.07.16,Costa Pacifica,Ostseekai
+Sa,16.07.16,16.07.16,Mein Schiff 5,Ostseekai
+Sa,16.07.16,16.07.16,AIDAvita,Sartorikai
+Sa,16.07.16,16.07.16,MSC Musica,Ostuferhafen
+Sa,16.07.16,16.07.16,AIDAaura,Ostseekai
+Mo,18.07.16,18.07.16,Mein Schiff 1,Ostseekai
+Do,21.07.16,21.07.16,Artania,Ostseekai
+Sa,23.07.16,23.07.16,Mein Schiff 4,Ostseekai
+Sa,23.07.16,23.07.16,MSC Musica,Ostseekai
+So,24.07.16,24.07.16,Mein Schiff 5,Ostseekai
+Mo,25.07.16,25.07.16,Europa,Ostseekai
+Di,26.07.16,26.07.16,Costa Pacifica,Ostseekai
+Fr,29.07.16,29.07.16,Mein Schiff 1,Ostseekai
+Fr,29.07.16,29.07.16,Artania,Ostseekai
+Sa,30.07.16,30.07.16,AIDAaura,Sartorikai
+Sa,30.07.16,30.07.16,AIDAluna,Ostuferhafen
+Sa,30.07.16,30.07.16,AIDAvita,Ostseekai
+Sa,30.07.16,30.07.16,MSC Musica,Ostseekai
+Mo,01.08.16,01.08.16,Mein Schiff 5,Ostseekai
+Fr,05.08.16,05.08.16,Costa Pacifica,Ostseekai
+Sa,06.08.16,06.08.16,Mein Schiff 4,Ostseekai
+Sa,06.08.16,06.08.16,AIDAluna,Ostuferhafen
+Sa,06.08.16,06.08.16,MSC Musica,Ostseekai
+Do,11.08.16,11.08.16,Mein Schiff 5,Ostseekai
+Sa,13.08.16,13.08.16,AIDAluna,Ostuferhafen
+Sa,13.08.16,13.08.16,AIDAvita,Sartorikai
+Sa,13.08.16,13.08.16,MSC Musica,Ostseekai
+Sa,13.08.16,13.08.16,Queen Elizabeth,Ostseekai
+So,14.08.16,14.08.16,Mein Schiff 4,Ostseekai
+Mi,17.08.16,17.08.16,Costa Pacifica,Ostseekai
+Do,18.08.16,18.08.16,Zuiderdam,Ostseekai
+Sa,20.08.16,20.08.16,AIDAaura,Sartorikai
+Sa,20.08.16,20.08.16,AIDAluna,Ostseekai
+Sa,20.08.16,20.08.16,MSC Musica,Ostseekai
+So,21.08.16,21.08.16,Astor,Norwegenkai
+Mo,22.08.16,22.08.16,Mein Schiff 4,Ostseekai
+Mo,22.08.16,22.08.16,Mein Schiff 5,Ostseekai
+Mi,24.08.16,24.08.16,AIDAluna,Ostseekai
+Fr,26.08.16,26.08.16,Hamburg,Norwegenkai
+Sa,27.08.16,27.08.16,AIDAaura,Sartorikai
+Sa,27.08.16,27.08.16,AIDAvita,Ostseekai
+Sa,27.08.16,27.08.16,MSC Musica,Ostseekai
+So,28.08.16,28.08.16,Costa Pacifica,Ostseekai
+Mo,29.08.16,29.08.16,Astor,Norwegenkai
+Di,30.08.16,30.08.16,Mein Schiff 4,Ostseekai
+Sa,03.09.16,03.09.16,MSC Musica,Ostseekai
+Mo,05.09.16,05.09.16,AIDAaura,Ostseekai
+Di,06.09.16,06.09.16,Mein Schiff 4,Ostseekai
+Di,06.09.16,06.09.16,Costa Pacifica,Ostseekai
+Mi,07.09.16,07.09.16,Mein Schiff 1,Ostseekai
+Sa,10.09.16,10.09.16,AIDAaura,Sartorikai
+Sa,10.09.16,10.09.16,AIDAvita,Ostseekai
+Sa,10.09.16,10.09.16,MSC Musica,Ostseekai
+Mo,12.09.16,12.09.16,AIDAaura,Ostseekai
+Do,15.09.16,15.09.16,Koningsdam,Ostseekai
+Fr,16.09.16,16.09.16,AIDAaura,Ostseekai
+Sa,17.09.16,17.09.16,Mein Schiff 4,Ostseekai
+Di,20.09.16,20.09.16,AIDAaura,Ostseekai
+Sa,24.09.16,24.09.16,AIDAaura,Ostseekai
+Sa,24.09.16,24.09.16,AIDAvita,Ostseekai
+Di,27.09.16,27.09.16,AIDAaura,Ostseekai
+Mi,28.09.16,28.09.16,AIDAaura,Ostseekai
+Sa,08.10.16,08.10.16,AIDAvita,Ostseekai
