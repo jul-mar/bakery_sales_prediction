@@ -1,14 +1,14 @@
 # Baseline Model
 
-To do Franz
-Lineare Regression Heimspiele und Maerkte
+Todo Franz
+Lineare Regression Heimspiele, Maerkte, Brot, Broetchen
 
 
-To do Barbara:
+Todo Barbara:
 maerkte hinzufügen
 Daten in Trainings und Validierungssatz
-Lineare Regression Kreutzfahrt und Feiertage
+Lineare Regression Kreutzfahrt, Feiertage, Croissant,Konditorei,
 
 
-To do Julius:
-Lineare Regression VPI und Ferien und Wetter
+Todo Julius:
+Lineare Regression VPI und Ferien, Wetter,Kuchen, Saisonbrot,
