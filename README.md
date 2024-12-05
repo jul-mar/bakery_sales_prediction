@@ -35,3 +35,11 @@ Regression
 ## Cover Image
 
 ![](CoverImage/cover_image.png)
+
+Todo:
+Barbara: anzahl der schiffe NANs zu 0 ändern
+
+Julius: data_long.csv erstellen
+
+alle: ein lineares model mit einer Variable, egal welche
+zwei lineare Regressionen für die beiden Warengruppen die wir in der letzten Woche bearbeitet haben 
