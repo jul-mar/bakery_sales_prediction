@@ -5,94 +5,78 @@ import statsmodels.api as sm
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 
-def find_best_feature_combination(data, max_features=None):
+def find_best_two_feature_combinations(data):
     """
-    Find the feature combination with the highest R² score using statsmodels OLS
+    Findet die besten Kombinationen von 2 Variablen für die lineare Regression
     
     Parameters:
-    data (pd.DataFrame): DataFrame containing features and target
-    max_features (int, optional): Maximum number of features to consider
+    data (pd.DataFrame): DataFrame mit Features und Zielvariale
     
     Returns:
-    dict: Dictionary with best combination details
+    pd.DataFrame: Sortierte Ergebnisse der Kombinationen
     """
-    # Prepare feature list (excluding the first columns like VPI and target)
+    # Feature-Liste (ohne Zielvarible)
     features_list = [
-        'Kuchen', 'Saisonbrot', 'is_holiday', 
-        'Temp_Very_Cold', 'Temp_Cold', 'Temp_Mild', 'Temp_Warm', 'Temp_Hot', 
-        'Cloud_Clear', 'Cloud_Partly_Cloudy', 'Cloud_Cloudy', 
-        'Wind_Light', 'Wind_Moderate', 'Wind_Strong', 
-        'Weather_Good', 'Weather_Light_Issues', 'Weather_Moderate', 'Weather_Severe', 'Weather_Unknown'
+        'Brot', 'Broetchen', 'Croissant', 'Konditorei', 'Kuchen', 'Saisonbrot', 'Temp_Very_Cold', 'Temp_Cold', 'Temp_Mild', 'Temp_Warm', 'Temp_Hot', 'Cloud_Clear', 'Cloud_Partly_Cloudy', 'Cloud_Cloudy', 'Wind_Light', 'Wind_Moderate', 'Wind_Strong', 'Weather_Good', 'Weather_Light_Issues', 'Weather_Moderate', 'Weather_Severe', 'Weather_Unknown', 'KielerWoche', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag', 'Sonntag', 'VPI', 'Heimspiel', 'Feiertag', 'is_holiday', 'Weihnachtsmarkt', 'Markt'
     ]
     
-    # Target variable
+    # Zielvarible
     target = 'Umsatz_total'
     
-    # If max_features not specified, use all features
-    if max_features is None:
-        max_features = len(features_list)
-    
-    # Store results
+    # Ergebnisse speichern
     results = []
     
-    # Scale the features
+    # Skalierung der Features
     scaler = StandardScaler()
     
-    # Try combinations from 1 to max_features
-    for n in range(1, max_features + 1):
-        for combo in itertools.combinations(features_list, n):
-            # Select features for this combination
-            X = data[list(combo)]
-            y = data[target]
+    # Kombinationen von 2 Variablen
+    for combo in itertools.combinations(features_list, 3):
+        # Features für diese Kombination auswählen
+        X = data[list(combo)]
+        y = data[target]
+        
+        # Features skalieren
+        X_scaled = scaler.fit_transform(X)
+        
+        # Daten aufteilen
+        X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
+        
+        # Konstanten-Term hinzufügen
+        X_train_with_const = sm.add_constant(X_train)
+        
+        # OLS-Modell anpassen
+        try:
+            model = sm.OLS(y_train, X_train_with_const).fit()
             
-            # Scale features
-            X_scaled = scaler.fit_transform(X)
-            
-            # Split data
-            X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
-            
-            # Add constant term for intercept
-            X_train_with_const = sm.add_constant(X_train)
-            
-            # Fit OLS model
-            try:
-                model = sm.OLS(y_train, X_train_with_const).fit()
-                
-                # Store results
-                results.append({
-                    'features': combo,
-                    'r2': model.rsquared,
-                    'adj_r2': model.rsquared_adj,
-                    'n_features': len(combo),
-                    'aic': model.aic,
-                    'bic': model.bic
-                })
-            except Exception as e:
-                print(f"Error processing combination {combo}: {e}")
+            # Ergebnisse speichern
+            results.append({
+                'Feature 1': combo[0],
+                'Feature 2': combo[1],
+                'R²': model.rsquared,
+                'Adjustiertes R²': model.rsquared_adj,
+                'AIC': model.aic,
+                'BIC': model.bic,
+                'P-Wert (Feature 1)': model.pvalues[1],
+                'P-Wert (Feature 2)': model.pvalues[2]
+            })
+        except Exception as e:
+            print(f"Fehler bei Kombination {combo}: {e}")
     
-    # Convert results to DataFrame and sort
+    # Ergebnisse in DataFrame umwandeln und nach adjustiertem R² sortieren
     results_df = pd.DataFrame(results)
+    results_sorted = results_df.sort_values('Adjustiertes R²', ascending=False)
     
-    # Sort by adjusted R² (to penalize adding too many features)
-    results_sorted = results_df.sort_values('adj_r2', ascending=False)
-    
-    # Top 10 combinations
-    top_10 = results_sorted.head(10)
-    
-    return {
-        'top_10_combinations': top_10,
-        'full_results': results_sorted
-    }
+    return results_sorted
 
-# Load the data
+# Daten laden
 data = pd.read_csv('/workspaces/bakery_sales_prediction/0_DataPreparation/Trainingsdaten.csv')
 
-# Find best feature combinations
-result = find_best_feature_combination(data)
+# Beste 2-Variablen-Kombinationen finden
+result = find_best_two_feature_combinations(data)
 
-# Print top 10 combinations
-print("Top 10 Feature Combinations:")
-print(result['top_10_combinations'])
+# Top 10 Kombinationen ausgeben
+print("Top 10 Zwei-Variablen-Kombinationen:")
+print(result.head(10))
 
-# Optional: Save full results to CSV
-result['full_results'].to_csv('feature_combination_results.csv', index=False)
+# Ergebnisse in CSV speichern
+result.to_csv('zwei_variablen_kombinationen.csv', index=False)
