@@ -31,7 +31,7 @@ df_vpi['Datum'] = pd.to_datetime(df_vpi['Jahr'].astype(str) + '-' + df_vpi['Mona
 df_vpi = df_vpi[['Datum', 'VPI']]
 
 # Create a date range for all days
-date_range = pd.date_range(start='2013-07-01', end='2018-07-31', freq='D')
+date_range = pd.date_range(start='2013-07-01', end='2019-07-31', freq='D')
 
 # Create a new DataFrame with this date range
 df_vpi_daily = pd.DataFrame({'Datum': date_range})
