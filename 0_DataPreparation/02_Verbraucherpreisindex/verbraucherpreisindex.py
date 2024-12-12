@@ -44,4 +44,6 @@ df_vpi['year_month'] = df_vpi['Datum'].dt.to_period('M')
 df_vpi_daily = df_vpi_daily.merge(df_vpi[['year_month', 'VPI']], on='year_month')
 df_vpi_daily = df_vpi_daily[['Datum', 'VPI']]
 
+df_vpi_daily['VPI'] = (df_vpi_daily['VPI'] / 106.2).round(3)
+
 df_vpi_daily.to_csv('/workspaces/bakery_sales_prediction/0_DataPreparation/02_Verbraucherpreisindex/vpi_daily.csv', index=False)
