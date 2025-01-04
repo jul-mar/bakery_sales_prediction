@@ -1,4 +1,5 @@
 .venv
+keras_tuner/
 
 # History files
 .Rhistory
