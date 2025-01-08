@@ -1,5 +1,6 @@
 .venv
 keras_tuner/
+logs/
 
 # History files
 .Rhistory
