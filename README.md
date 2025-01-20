@@ -26,10 +26,10 @@ Regression
 
 ## Documentation
 
-1.  [**Data Import and Preparation**](0_DataPreparation/)
-3.  [**Dataset Characteristics (Barcharts)**](1_DatasetCharacteristics/)
-4.  [**Baseline Model**](2_BaselineModel/)
-5.  [**Model Definition and Evaluation**](3_Model/)
+1.  [**Data Import and Preparation**](0_DataPreparation/README.md)
+3.  [**Dataset Characteristics (Barcharts)**](1_DatasetCharacteristics/README.md)
+4.  [**Baseline Model**](2_BaselineModel/README.md)
+5.  [**Model Definition and Evaluation**](3_Model/README.md)
 6.  [**Presentation**](4_Presentation/README.md)
 
 ## Cover Image
