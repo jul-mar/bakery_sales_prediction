@@ -14,15 +14,18 @@ Regression
 
 ### Results Summary
 
--   **Best Model:** [Name of the best-performing model]
--   **Evaluation Metric:** MAPE
+-   **Best Model:** V4_Regularisation
+-   **Evaluation Metric:** MAPE on validation data
+
 -   **Result by Category** (Identifier):
-    -   **Bread** (1): [XX]%
-    -   **Rolls** (2): [XX]%
-    -   **Croissant** (3): [XX]%
-    -   **Confectionery** (4): [XX]%
-    -   **Cake** (5): [XX]%
-    -   **Seasonal Bread** (6): [XX]%
+    -   **Bread** (1): 18.53 %
+    -   **Rolls** (2): 12.08 %
+    -   **Croissant** (3): 19.48 %
+    -   **Confectionery** (4): 21.81 %
+    -   **Cake** (5): 14.73 %
+    -   **Seasonal Bread** (6): 34.17 %
+
+-   **Result Total** (weighted average): 17.87 %
 
 ## Documentation
 
