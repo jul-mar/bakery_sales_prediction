@@ -1,34 +1,40 @@
 # Model Definition and Evaluation
 
-- **Model Selection**
+## Model Selection
 
-Various neural networks were considered, including Models with e.g. lag data, Regularisation or tuner models. After evaluation, the model V4_Regularisation was selected due to its superior performance on the validation data. Further investigation and optimization on the test data leaded to the best model on the test data: V7_Regularisation_Less_Neurons.
+Multiple neural network architectures were explored, including models incorporating lag data, regularization techniques, and hyperparameter tuners. After extensive evaluation, **Model V4_Regularisation** demonstrated superior performance on the validation set. Further fine-tuning and evaluation on the test set identified **Model V7_Regularisation_Less_Neurons** as the best-performing model overall.
 
-Each product category has it's own neural network with slightly different hyperparameters and features.
+Each product category was modeled with its own neural network, each having customized hyperparameters and feature sets tailored to its specific characteristics.
 
-- **Feature Engineering**
+## Feature Engineering
 
-Key features such as date, day of the week, promotional events and historical sales data were engineered to enhance model accuracy. To figure out the best Features for each product category, severel linear and not linear correlation tests were made in [**2_BaselineModel**](2_BaselineModel/README.md) complemented by manual tests.
+Key features included temporal variables such as date, day of the week, promotional events, and historical sales data. Feature selection for each product category was informed by a combination of **linear and non-linear correlation analyses** conducted in the [**2_BaselineModel**](2_BaselineModel/README.md) stage, complemented by iterative manual testing and domain expertise.
 
-- **Hyperparameter Tuning**
+## Hyperparameter Tuning
 
-Different Hyperparameter tuners were used. Furthermore, systematic testing and developing intuition leaded to the best approach. The adjustet hyperparameters were:
+A combination of automated hyperparameter tuning and manual experimentation was used to optimize model performance. The primary hyperparameters adjusted were:
 
 - Learning rate
 - Batch size
 - Number of epochs
 - Activation functions
 - Number of layers
-- Number of neurons per layer
+- Neurons per layer
 - Dropout rate
 - Regularization (L2)
-- Optimizer (e.g., SGD, Adam, RMSprop)
-- Beta values for Adam optimizer (β1, β2)
+- Optimizer (SGD, Adam, RMSprop)
+- Beta values for the Adam optimizer (β1, β2)
 
-- **Implementation**
+These parameters were systematically tested to balance bias and variance, resulting in the best-performing configuration for each model.
 
-The model was implemented using Python with libraries such as keras and tensorflow. 
+## Implementation
 
-- **Evaluation Metrics**
+The models were implemented using **Python**, leveraging the **Keras** and **TensorFlow** libraries for neural network construction and training.
 
-The model's performance was assessed using metrics like Mean Absolute Error (MAE) and Mean Average Procentual Error (MAPE). The progressions of the loss functions and prediction plots were also monitored.
+## Evaluation Metrics
+
+Model performance was measured using the following metrics:
+- **Mean Absolute Error (MAE)**: To evaluate absolute prediction accuracy.
+- **Mean Absolute Percentage Error (MAPE)**: To understand relative error rates.
+
+Additionally, **loss function progression** and **prediction plots** were closely monitored to diagnose underfitting, overfitting, and overall model behavior.
