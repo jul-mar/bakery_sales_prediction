@@ -1,8 +1,16 @@
 # Dataset Characteristics
+To explore the dataset we created two notebook:
+- Ba_exploring
+- Umsatzdaten-scatterplats. 
+In these notebooks we explored the following questions:
 
-spezielle Tage mit hohen Umsätzen:
-31.12. jedes Jahr
-03.08.2013 für Warengruppe 2 und 3
-05.05.2014 für alle Warengruppen
-15.04.2017 für 1,2,3
+- How does the revenue change over the months
+    - July and August (summer) are the months with the highest revenue
+- How does the revenue change over the course of a week?
+    - Saturday and Sunday are the days with the highest revenue. Sunday higher than Saturday.
+- How much does each product grup contribute to the total revenue. Is there a pattern?
+- Which days have a significant high revenue?
+    - New Years Eve
+- 
+-
 
