@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](4_Presentation/Team_12_V4.pptx)**
+**[Slides](Team_12_V4.pptx)**
