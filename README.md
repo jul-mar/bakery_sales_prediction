@@ -6,7 +6,13 @@ https://github.com/jul-mar/bakery_sales_prediction
 
 ## Description
 
-This project focuses on sales forecasting for a bakery branch, utilizing historical sales data spanning from July 1, 2013, to July 30, 2018, to inform inventory and staffing decisions. We aim to predict future sales for six specific product categories: Bread, Rolls, Croissants, Confectionery, Cakes, and Seasonal Bread. Our methodology integrates statistical and machine learning techniques, beginning with a baseline linear regression model to identify fundamental trends, and progressing to a sophisticated neural network designed to discern more nuanced patterns and enhance forecast precision. The initiative encompasses data preparation, crafting bar charts with confidence intervals for visualization, and fine-tuning models to assess their performance on test data from August 1, 2018, to July 30, 2019, using the Mean Absolute Percentage Error (MAPE) metric for each product category.
+As part of the "Einführung in Data Science und maschinelles Lernen" course at opencampus.sh, this project develops a machine learning solution for sales forecasting at a bakery branch. The system predicts sales across six distinct product categories: Bread, Rolls, Croissants, Confectionery, Cakes, and Seasonal Bread, by training on historical data from July 2013 to July 2018, with testing performed on data spanning August 2018 to July 2019.
+
+The solution architecture demonstrates data science principles through multiple neural networks, with dedicated models for each product category. The final implementation evolved through systematic experimentation, progressing from baseline SGD regressors to neural network configurations. The feature set encompasses temporal variables, event data (including cruise ship arrivals and local events), weather conditions, and seasonal indicators, selected through rigorous correlation analysis.
+
+The model architecture implemented with the Keras/TensorFlow framework showcases machine learning best practices, incorporating regularization techniques and optimized hyperparameters specific to each product category. The data preprocessing pipeline demonstrates handling of missing values through alternative data sources and temporal interpolation, while categorical variables undergo one-hot encoding.
+
+Performance evaluation employs industry-standard metrics, with Mean Absolute Percentage Error (MAPE) as the primary measure, supplemented by MAE for absolute accuracy assessment. 
 
 ### Task Type
 
