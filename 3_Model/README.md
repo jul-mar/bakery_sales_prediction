@@ -2,7 +2,7 @@
 
 ## Model Selection
 
-Multiple neural network architectures were explored, including models incorporating lag data, regularization techniques, and hyperparameter tuners. After extensive evaluation, **Model V4_Regularisation** demonstrated superior performance on the validation set. Further fine-tuning and evaluation on the test set identified **Model V7_Regularisation_Less_Neurons** as the best-performing model overall.
+Multiple neural network architectures were explored, including models incorporating lag data, regularization techniques, and hyperparameter tuners. After extensive evaluation, **V4_Regularisation_Model** demonstrated superior performance on the validation set. Further fine-tuning and evaluation on the test set identified **V7_Regularisation_Less_Neurons_Model** as the best-performing model overall.
 
 Each product category was modeled with its own neural network, each having customized hyperparameters and feature sets tailored to its specific characteristics.
 
